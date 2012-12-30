@@ -9,6 +9,7 @@ class RequestTest < TestCase
 
     assert_equal url, request.url
     assert_equal :get, request.method
+    assert_equal 80, request.port
     assert_equal "http", request.scheme
     assert_equal "en.wikipedia.org", request.host
     assert_equal "/wiki/Http", request.path

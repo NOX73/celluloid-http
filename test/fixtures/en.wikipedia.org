@@ -1,0 +1,1945 @@
+HTTP/1.0 200 OK
+Date: Sat, 29 Dec 2012 13:45:54 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Content-Language: en
+Vary: Accept-Encoding,Cookie
+Last-Modified: Sat, 29 Dec 2012 08:12:50 GMT
+Content-Length: 172911
+Content-Type: text/html; charset=UTF-8
+Age: 75348
+X-Cache: HIT from cp1016.eqiad.wmnet
+X-Cache-Lookup: HIT from cp1016.eqiad.wmnet:3128
+X-Cache: MISS from cp1014.eqiad.wmnet
+X-Cache-Lookup: MISS from cp1014.eqiad.wmnet:80
+Connection: close
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Hypertext Transfer Protocol - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf6" />
+<link rel="canonical" href="/wiki/Hypertext_Transfer_Protocol" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hypertext_Transfer_Protocol","wgTitle":"Hypertext Transfer Protocol","wgCurRevisionId":528832043,"wgArticleId":13443,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2010","Articles with unsourced statements from August 2010","Articles with unsourced statements from August 2008","Articles with unsourced statements from July 2011","HTTP","Application layer protocols","Open formats","Web browsers","World Wide Web","World Wide Web Consortium standards","Article Feedback 5 Additional Articles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hypertext_Transfer_Protocol","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Http","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"500035506a6eeac81bbfa5405a45183e","wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":13443,"title":"Hypertext Transfer Protocol","namespace":0,"categories":["All articles with unsourced statements","Application layer protocols","Article Feedback 5 Additional Articles","Articles with unsourced statements from August 2008","Articles with unsourced statements from August 2010","Articles with unsourced statements from July 2011","Articles with unsourced statements from September 2010","HTTP","Open formats","Web browsers","World Wide Web","World Wide Web Consortium standards"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-email-notificationspagetriage-mark-as-reviewed":true,"echo-email-notificationspagetriage-add-maintenance-tag":true,"echo-email-notificationspagetriage-add-deletion-tag":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false
+,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:19e64e7d3e84450cdd6aaeece6e56fab */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf6/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hypertext_Transfer_Protocol skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Hypertext Transfer Protocol</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Http&amp;redirect=no" title="Http">Http</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks hlist" cellspacing="5" style="float: right; clear: right; background-color: #f9f9f9; border: 1px solid #aaa; width:22em; margin: 0 0 1em 1em; padding: 0.2em; border-spacing: 0.4em 0; text-align: center; line-height: 1.4em; font-size: 88%;" cellpadding="0">
+<tr>
+<th class="" style="padding: 0.2em 0.4em 0.2em; font-size: 145%; line-height: 1.2em;"><a href="/wiki/Internet_protocol_suite" title="Internet protocol suite">Internet protocols</a></th>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/Application_layer" title="Application layer">Application layer</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/Dynamic_Host_Configuration_Protocol" title="Dynamic Host Configuration Protocol">DHCP</a></li>
+<li><a href="/wiki/DHCPv6" title="DHCPv6">DHCPv6</a></li>
+<li><a href="/wiki/Domain_Name_System" title="Domain Name System">DNS</a></li>
+<li><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a></li>
+<li><strong class="selflink">HTTP</strong></li>
+<li><a href="/wiki/Internet_Message_Access_Protocol" title="Internet Message Access Protocol">IMAP</a></li>
+<li><a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">IRC</a></li>
+<li><a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">LDAP</a></li>
+<li><a href="/wiki/Media_Gateway_Control_Protocol" title="Media Gateway Control Protocol">MGCP</a></li>
+<li><a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">NNTP</a></li>
+<li><a href="/wiki/Network_Time_Protocol" title="Network Time Protocol">NTP</a></li>
+<li><a href="/wiki/Post_Office_Protocol" title="Post Office Protocol">POP</a></li>
+<li><a href="/wiki/Open_Network_Computing_Remote_Procedure_Call" title="Open Network Computing Remote Procedure Call">RPC</a></li>
+<li><a href="/wiki/Real-time_Transport_Protocol" title="Real-time Transport Protocol">RTP</a></li>
+<li><a href="/wiki/Real-time_Transport_Control_Protocol" title="Real-time Transport Control Protocol" class="mw-redirect">RTCP</a></li>
+<li><a href="/wiki/Real_Time_Streaming_Protocol" title="Real Time Streaming Protocol">RTSP</a></li>
+<li><a href="/wiki/Session_Initiation_Protocol" title="Session Initiation Protocol">SIP</a></li>
+<li><a href="/wiki/Simple_Mail_Transfer_Protocol" title="Simple Mail Transfer Protocol">SMTP</a></li>
+<li><a href="/wiki/Simple_Network_Management_Protocol" title="Simple Network Management Protocol">SNMP</a></li>
+<li><a href="/wiki/SOCKS" title="SOCKS">SOCKS</a></li>
+<li><a href="/wiki/Secure_Shell" title="Secure Shell">SSH</a></li>
+<li><a href="/wiki/Telnet" title="Telnet">Telnet</a></li>
+<li><a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">TLS/SSL</a></li>
+<li><a href="/wiki/XMPP" title="XMPP">XMPP</a></li>
+<li><a href="/wiki/Category:Application_layer_protocols" title="Category:Application layer protocols">(more)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/Transport_layer" title="Transport layer">Transport layer</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">TCP</a></li>
+<li><a href="/wiki/User_Datagram_Protocol" title="User Datagram Protocol">UDP</a></li>
+<li><a href="/wiki/Datagram_Congestion_Control_Protocol" title="Datagram Congestion Control Protocol">DCCP</a></li>
+<li><a href="/wiki/Stream_Control_Transmission_Protocol" title="Stream Control Transmission Protocol">SCTP</a></li>
+<li><a href="/wiki/Resource_Reservation_Protocol" title="Resource Reservation Protocol">RSVP</a></li>
+<li><a href="/wiki/Category:Transport_layer_protocols" title="Category:Transport layer protocols">(more)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/Routing_protocol" title="Routing protocol">Routing protocols</a> *</th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/Border_Gateway_Protocol" title="Border Gateway Protocol">BGP</a></li>
+<li><a href="/wiki/Open_Shortest_Path_First" title="Open Shortest Path First">OSPF</a></li>
+<li><a href="/wiki/Routing_Information_Protocol" title="Routing Information Protocol">RIP</a></li>
+<li><a href="/wiki/Category:Routing_protocols" title="Category:Routing protocols">(more)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/Internet_layer" title="Internet layer">Internet layer</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/Internet_Protocol" title="Internet Protocol">IP</a>
+<ul>
+<li><a href="/wiki/IPv4" title="IPv4">IPv4</a></li>
+<li><a href="/wiki/IPv6" title="IPv6">IPv6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Internet_Control_Message_Protocol" title="Internet Control Message Protocol">ICMP</a></li>
+<li><a href="/wiki/ICMPv6" title="ICMPv6">ICMPv6</a></li>
+<li><a href="/wiki/Explicit_Congestion_Notification" title="Explicit Congestion Notification">ECN</a></li>
+<li><a href="/wiki/Internet_Group_Management_Protocol" title="Internet Group Management Protocol">IGMP</a></li>
+<li><a href="/wiki/IPsec" title="IPsec">IPsec</a></li>
+<li><a href="/wiki/Category:Internet_layer_protocols" title="Category:Internet layer protocols">(more)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/Link_layer" title="Link layer">Link layer</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/Address_Resolution_Protocol" title="Address Resolution Protocol">ARP/InARP</a></li>
+<li><a href="/wiki/Neighbor_Discovery_Protocol" title="Neighbor Discovery Protocol">NDP</a></li>
+<li><a href="/wiki/Tunneling_protocol" title="Tunneling protocol">Tunnels</a>
+<ul>
+<li><a href="/wiki/Layer_2_Tunneling_Protocol" title="Layer 2 Tunneling Protocol">L2TP</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Point-to-point_protocol" title="Point-to-point protocol">PPP</a></li>
+<li><a href="/wiki/Media_access_control" title="Media access control">Media access control</a>
+<ul>
+<li><a href="/wiki/Ethernet" title="Ethernet">Ethernet</a></li>
+<li><a href="/wiki/Digital_subscriber_line" title="Digital subscriber line">DSL</a></li>
+<li><a href="/wiki/Integrated_Services_Digital_Network" title="Integrated Services Digital Network">ISDN</a></li>
+<li><a href="/wiki/Fiber_Distributed_Data_Interface" title="Fiber Distributed Data Interface">FDDI</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:Link_protocols" title="Category:Link protocols">(more)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="">&#160;<b>*</b> Not a layer. A routing protocol belongs either to application or network layer.</td>
+</tr>
+<tr>
+<td style="text-align: right; font-size: 115%;">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:IPstack" title="Template:IPstack"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:IPstack" title="Template talk:IPstack"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:IPstack&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks hlist" cellspacing="5" style="float: right; clear: right; background-color: #f9f9f9; border: 1px solid #aaa; width:22em; margin: 0 0 1em 1em; padding: 0.2em; border-spacing: 0.4em 0; text-align: center; line-height: 1.4em; font-size: 88%;" cellpadding="0">
+<tr>
+<th class="" style="padding: 0.2em 0.4em 0.2em; font-size: 145%; line-height: 1.2em;"><strong class="selflink">HTTP</strong></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/HTTP_persistent_connection" title="HTTP persistent connection">Persistence</a></li>
+<li><a href="/wiki/HTTP_compression" title="HTTP compression">Compression</a></li>
+<li><a href="/wiki/HTTP_Secure" title="HTTP Secure">HTTPS</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/Hypertext_Transfer_Protocol#Request_methods" title="Hypertext Transfer Protocol">Request methods</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/OPTIONS_(HTTP)" title="OPTIONS (HTTP)" class="mw-redirect">OPTIONS</a></li>
+<li><a href="/wiki/Hypertext_Transfer_Protocol#Request_methods" title="Hypertext Transfer Protocol">GET</a></li>
+<li><a href="/wiki/HEAD_(HTTP)" title="HEAD (HTTP)" class="mw-redirect">HEAD</a></li>
+<li><a href="/wiki/POST_(HTTP)" title="POST (HTTP)">POST</a></li>
+<li><a href="/wiki/PUT_(HTTP)" title="PUT (HTTP)" class="mw-redirect">PUT</a></li>
+<li><a href="/wiki/DELETE_(HTTP)" title="DELETE (HTTP)" class="mw-redirect">DELETE</a></li>
+<li><a href="/wiki/TRACE_(HTTP)" title="TRACE (HTTP)" class="mw-redirect">TRACE</a></li>
+<li><a href="/wiki/CONNECT_(HTTP)" title="CONNECT (HTTP)" class="mw-redirect">CONNECT</a></li>
+<li><a href="/wiki/PATCH_(HTTP)" title="PATCH (HTTP)" class="mw-redirect">PATCH</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/List_of_HTTP_header_fields" title="List of HTTP header fields">Header fields</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/HTTP_cookie" title="HTTP cookie">Cookie</a></li>
+<li><a href="/wiki/HTTP_ETag" title="HTTP ETag">ETag</a></li>
+<li><a href="/wiki/HTTP_location" title="HTTP location">Location</a></li>
+<li><a href="/wiki/HTTP_referer" title="HTTP referer">HTTP referer</a></li>
+<li><a href="/wiki/Do_Not_Track" title="Do Not Track">DNT</a></li>
+<li><a href="/wiki/X-Forwarded-For" title="X-Forwarded-For">X-Forwarded-For</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="padding: 0.1em;&#160;;"><a href="/wiki/List_of_HTTP_status_codes" title="List of HTTP status codes">Status codes</a></th>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<ul>
+<li><a href="/wiki/HTTP_301" title="HTTP 301">301 Moved permanently</a></li>
+<li><a href="/wiki/HTTP_302" title="HTTP 302">302 Found</a></li>
+<li><a href="/wiki/HTTP_303" title="HTTP 303">303 See Other</a></li>
+<li><a href="/wiki/HTTP_403" title="HTTP 403">403 Forbidden</a></li>
+<li><a href="/wiki/HTTP_404" title="HTTP 404">404 Not Found</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: right; font-size: 115%;">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:HTTP" title="Template:HTTP"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:HTTP" title="Template talk:HTTP"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HTTP&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" cellspacing="0" style="float: right; clear: right; background-color: #f9f9f9; border: 1px solid #aaa; width:22em; margin: 0 0 1em 1em; padding: 0.2em; border-spacing: 0.4em 0; text-align: center; line-height: 1.4em; font-size: 88%; border:1px solid #78866b; white-space:nowrap; width:20em;" cellpadding="0">
+<tr>
+<th class="" style="padding: 0.2em 0.4em 0.2em; font-size: 145%; line-height: 1.2em; font-size:175%;"><a href="/wiki/Internet" title="Internet">Internet</a></th>
+</tr>
+<tr>
+<td class="" style="padding: 0.2em 0 0.4em;"><a href="/wiki/File:Internet_map_1024.jpg" class="image" title="Visualization of Internet routing paths"><img alt="Visualization of Internet routing paths" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/150px-Internet_map_1024.jpg" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/225px-Internet_map_1024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/300px-Internet_map_1024.jpg 2x" /></a>
+<div style="padding-top: 0.2em; line-height: 1.2em; padding:0.4em 0 0.4em; line-height:1.2em; font-size:85%;">An <a href="/wiki/Opte_Project" title="Opte Project">Opte Project</a> visualization of <a href="/wiki/Routing" title="Routing">routing<br />
+paths</a> through a portion of the Internet</div>
+</td>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:orange; text-align:center;;">General</div>
+<div class="NavContent" style="font-size: 105%; padding: 0.2em 0 0.4em; text-align: center;">
+<ul>
+<li><a href="/wiki/Internet_access" title="Internet access">Access</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Internet_censorship" title="Internet censorship">Censorship</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Internet_democracy" title="Internet democracy">Democracy</a></li>
+<li><a href="/wiki/Digital_divide" title="Digital divide">Digital divide</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Digital_rights" title="Digital rights">Digital rights</a></li>
+<li><a href="/wiki/Freedom_of_information" title="Freedom of information">Freedom of information</a></li>
+<li><a href="/wiki/History_of_the_Internet" title="History of the Internet">History</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/List_of_Internet_phenomena" title="List of Internet phenomena">Internet phenomena</a></li>
+<li><a href="/wiki/Network_neutrality" title="Network neutrality">Network neutrality</a></li>
+<li><a href="/wiki/List_of_Internet_pioneers" title="List of Internet pioneers">Pioneers</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Internet_privacy" title="Internet privacy">Privacy</a></li>
+<li><a href="/wiki/Sociology_of_the_Internet" title="Sociology of the Internet">Sociology</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Global_Internet_usage" title="Global Internet usage">Usage</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:orange; text-align:center;;"><a href="/wiki/Internet_governance" title="Internet governance">Governance</a></div>
+<div class="NavContent" style="font-size: 105%; padding: 0.2em 0 0.4em; text-align: center;">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/ICANN" title="ICANN">Internet Corporation for Assigned<br />
+Names and Numbers (ICANN)</a></div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">Internet Engineering<br />
+Task Force (IETF)</a></div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Internet_Governance_Forum" title="Internet Governance Forum">Internet Governance<br />
+Forum (IGF)</a></div>
+</li>
+<li><a href="/wiki/Internet_Society" title="Internet Society">Internet Society (ISOC)</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<div class="NavFrame" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:orange; text-align:center;;"><a href="/wiki/Information_infrastructure" title="Information infrastructure" class="mw-redirect">Protocols/Infrastructure</a></div>
+<div class="NavContent" style="font-size: 105%; padding: 0.2em 0 0.4em; text-align: center;">
+<ul>
+<li><a href="/wiki/Domain_Name_System" title="Domain Name System">Domain Name System (DNS)</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><strong class="selflink">Hypertext Transfer<br />
+Protocol (HTTP)</strong></div>
+</li>
+<li><a href="/wiki/Internet_exchange_point" title="Internet exchange point">Internet exchange point</a></li>
+<li><a href="/wiki/Internet_Protocol" title="Internet Protocol">Internet Protocol (IP)</a></li>
+<li><a href="/wiki/Internet_protocol_suite" title="Internet protocol suite">Internet Protocol Suite (TCP/IP)</a></li>
+<li><a href="/wiki/Internet_service_provider" title="Internet service provider">Internet service provider (ISP)</a></li>
+<li><a href="/wiki/IP_address" title="IP address">IP address</a></li>
+<li><a href="/wiki/Post_Office_Protocol" title="Post Office Protocol">POP3 email protocol</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Simple_Mail_Transfer_Protocol" title="Simple Mail Transfer Protocol">Simple Mail Transfer<br />
+Protocol (SMTP)</a></div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:orange; text-align:center;;">Services</div>
+<div class="NavContent" style="font-size: 105%; padding: 0.2em 0 0.4em; text-align: center;">
+<ul>
+<li><a href="/wiki/Blog" title="Blog">Blogs</a> <small>(<a href="/wiki/Microblogging" title="Microblogging">Microblogging</a>)</small></li>
+<li><a href="/wiki/Email" title="Email">Email</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Internet_fax" title="Internet fax">Fax</a></li>
+<li><a href="/wiki/File_sharing" title="File sharing">File sharing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/File_transfer" title="File transfer">File transfer</a></li>
+<li><a href="/wiki/Online_game" title="Online game">Games</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Instant_messaging" title="Instant messaging">Instant messaging</a></li>
+<li><a href="/wiki/Podcast" title="Podcast">Podcasts</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Online_shopping" title="Online shopping">Shopping</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Internet_television" title="Internet television">Television</a></li>
+<li><a href="/wiki/Voice_over_IP" title="Voice over IP">Voice over IP (VoIP)</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a><br />
+<small>(<a href="/wiki/Web_search_engine" title="Web search engine">Web search</a>)</small></div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="" style="padding:0 0.1em 0.4em;&#160;;">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:orange; text-align:center;;">Guides</div>
+<div class="NavContent" style="font-size: 105%; padding: 0.2em 0 0.4em; text-align: center;">
+<ul>
+<li><a href="/wiki/Book:Internet" title="Book:Internet">Book</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Index_of_Internet-related_articles" title="Index of Internet-related articles">Index</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Outline_of_the_Internet" title="Outline of the Internet">Outline</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="" style="padding: 0.3em 0.4em 0.3em; font-weight: bold; border-top: 1px solid #aaa; border-bottom: 1px solid #aaa; border-top:1px solid #78866b;border-bottom:1px solid #78866b;"><a href="/wiki/File:Crystal_Clear_app_browser.png" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/28px-Crystal_Clear_app_browser.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/42px-Crystal_Clear_app_browser.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/56px-Crystal_Clear_app_browser.png 2x" /></a> <a href="/wiki/Portal:Internet" title="Portal:Internet">Internet portal</a></td>
+</tr>
+<tr>
+<td style="text-align: right; font-size: 115%; padding-top: 0.6em;">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Internet" title="Template:Internet"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Internet" title="Template talk:Internet"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Hypertext Transfer Protocol</b> (<b>HTTP</b>) is an <a href="/wiki/Application_protocol" title="Application protocol" class="mw-redirect">application protocol</a> for distributed, collaborative, <a href="/wiki/Hypermedia" title="Hypermedia">hypermedia</a> information systems.<sup id="cite_ref-ietf2616_1-0" class="reference"><a href="#cite_note-ietf2616-1"><span>[</span>1<span>]</span></a></sup> HTTP is the foundation of data communication for the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>.</p>
+<p><a href="/wiki/Hypertext" title="Hypertext">Hypertext</a> is a multi-linear set of objects, building a network by using logical links (the so-called <a href="/wiki/Hyperlinks" title="Hyperlinks" class="mw-redirect">hyperlinks</a>) between the <a href="/wiki/Node_(computer_science)" title="Node (computer science)">nodes</a> (e.g. text or words). HTTP is the protocol to exchange or transfer hypertext.</p>
+<p>The standards development of HTTP was coordinated by the <a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">Internet Engineering Task Force</a> (IETF) and the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a> (W3C), culminating in the publication of a series of <a href="/wiki/Requests_for_Comments" title="Requests for Comments" class="mw-redirect">Requests for Comments</a> (RFCs), most notably <a class="external mw-magiclink-rfc" href="//tools.ietf.org/html/rfc2616">RFC 2616</a> (June 1999), which defines HTTP/1.1, the version of HTTP in common use.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technical_overview"><span class="tocnumber">1</span> <span class="toctext">Technical overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#HTTP_session"><span class="tocnumber">3</span> <span class="toctext">HTTP session</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Request_methods"><span class="tocnumber">4</span> <span class="toctext">Request methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Safe_methods"><span class="tocnumber">4.1</span> <span class="toctext">Safe methods</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Idempotent_methods_and_web_applications"><span class="tocnumber">4.2</span> <span class="toctext">Idempotent methods and web applications</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Security"><span class="tocnumber">4.3</span> <span class="toctext">Security</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Status_codes"><span class="tocnumber">5</span> <span class="toctext">Status codes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Persistent_connections"><span class="tocnumber">6</span> <span class="toctext">Persistent connections</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#HTTP_session_state"><span class="tocnumber">7</span> <span class="toctext">HTTP session state</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Secure_HTTP"><span class="tocnumber">8</span> <span class="toctext">Secure HTTP</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Request_message"><span class="tocnumber">9</span> <span class="toctext">Request message</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Response_message"><span class="tocnumber">10</span> <span class="toctext">Response message</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Example_session"><span class="tocnumber">11</span> <span class="toctext">Example session</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Client_request"><span class="tocnumber">11.1</span> <span class="toctext">Client request</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Server_response"><span class="tocnumber">11.2</span> <span class="toctext">Server response</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#HTTP_replacements_or_enhancements"><span class="tocnumber">12.1</span> <span class="toctext">HTTP replacements or enhancements</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Further_information"><span class="tocnumber">12.2</span> <span class="toctext">Further information</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Related_topics_and_technologies"><span class="tocnumber">12.3</span> <span class="toctext">Related topics and technologies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Notes"><span class="tocnumber">13</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=1" title="Edit section: Technical overview">edit</a>]</span> <span class="mw-headline" id="Technical_overview">Technical overview</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Internet1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Internet1.jpg/220px-Internet1.jpg" width="220" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Internet1.jpg/330px-Internet1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Internet1.jpg/440px-Internet1.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Internet1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Image of the networking protocol HTTP and the <a href="/wiki/World_Wide_Web" title="World Wide Web">WWW</a> letters.</div>
+</div>
+</div>
+<p>HTTP functions as a <a href="/wiki/Request-response" title="Request-response">request-response</a> protocol in the <a href="/wiki/Client-server" title="Client-server" class="mw-redirect">client-server</a> computing model. A <a href="/wiki/Web_browser" title="Web browser">web browser</a>, for example, may be the <i>client</i> and an application running on a computer <a href="/wiki/Host_(network)" title="Host (network)">hosting</a> a <a href="/wiki/Web_site" title="Web site" class="mw-redirect">web site</a> may be the <i>server</i>. The client submits an HTTP <i>request</i> message to the server. The server, which provides <i>resources</i> such as <a href="/wiki/HTML" title="HTML">HTML</a> files and other content, or performs other functions on behalf of the client, returns a <i>response</i> message to the client. The response contains completion status information about the request and may also contain requested content in its message body.</p>
+<p>A web browser is an example of a <i><a href="/wiki/User_agent" title="User agent">user agent</a></i> (UA). Other types of user agent include the indexing software used by search providers (<a href="/wiki/Web_crawler" title="Web crawler">web crawlers</a>), <a href="/wiki/Voice_browser" title="Voice browser">voice browsers</a>, <a href="/wiki/Mobile_apps" title="Mobile apps" class="mw-redirect">mobile apps</a> and other software that accesses, consumes or displays web content.</p>
+<p>HTTP is designed to permit intermediate network elements to improve or enable communications between clients and servers. High-traffic websites often benefit from <a href="/wiki/Web_cache" title="Web cache">web cache</a> servers that deliver content on behalf of <a href="/wiki/Upstream_server" title="Upstream server">upstream servers</a> to improve response time. Web browsers cache previously accessed web resources and reuse them when possible to reduce network traffic. HTTP <a href="/wiki/Proxy_server" title="Proxy server">proxy servers</a> at <a href="/wiki/Private_network" title="Private network">private network</a> boundaries can facilitate communication for clients without a globally routable address, by relaying messages with external servers.</p>
+<p>HTTP is an <a href="/wiki/Application_layer" title="Application layer">application layer</a> protocol designed within the framework of the <a href="/wiki/Internet_Protocol_Suite" title="Internet Protocol Suite" class="mw-redirect">Internet Protocol Suite</a>. Its definition presumes an underlying and reliable <a href="/wiki/Transport_layer" title="Transport layer">transport layer</a> protocol,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> and <a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">Transmission Control Protocol</a> (TCP) predominates for this purpose. However HTTP can use unreliable protocols such as the <a href="/wiki/User_Datagram_Protocol" title="User Datagram Protocol">User Datagram Protocol</a> (UDP), for example in <a href="/wiki/Simple_Service_Discovery_Protocol" title="Simple Service Discovery Protocol">Simple Service Discovery Protocol</a> (SSDP).</p>
+<p>HTTP <a href="/wiki/Resource_(Web)" title="Resource (Web)">resources</a> are identified and located on the network by <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier" class="mw-redirect">Uniform Resource Identifiers</a> (URIs)—or, more specifically, <a href="/wiki/Uniform_Resource_Locator" title="Uniform Resource Locator" class="mw-redirect">Uniform Resource Locators</a> (URLs)—using the <tt>http</tt> or <tt><a href="/wiki/Https" title="Https" class="mw-redirect">https</a></tt> <a href="/wiki/URI_scheme" title="URI scheme">URI schemes</a>. URIs and <a href="/wiki/Hyperlink" title="Hyperlink">hyperlinks</a> in <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language" class="mw-redirect">Hypertext Markup Language</a> (HTML) documents form <i>webs</i> of inter-linked <a href="/wiki/Hypertext" title="Hypertext">hypertext</a> documents. On the <a href="/wiki/Internet" title="Internet">Internet</a> the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> was established in 1990 by English computer scientist and innovator <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a>.</p>
+<p>HTTP/1.1 is a revision of the original HTTP (HTTP/1.0). In HTTP/1.0 a separate <a href="/wiki/Connection-oriented_communication" title="Connection-oriented communication">connection</a> to the same server is made for every resource request. HTTP/1.1 can reuse a connection multiple times to download images, <a href="/wiki/Client-side_scripting" title="Client-side scripting">scripts</a>, <a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">stylesheets</a> <i>et cetera</i> after the page has been delivered. HTTP/1.1 communications therefore experience less <a href="/wiki/Latency_(engineering)" title="Latency (engineering)">latency</a> as the establishment of TCP connections presents considerable overhead.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=2" title="Edit section: History">edit</a>]</span> <span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:Tim_Berners-Lee_CP_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tim_Berners-Lee_CP_2.jpg/190px-Tim_Berners-Lee_CP_2.jpg" width="190" height="126" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tim_Berners-Lee_CP_2.jpg/285px-Tim_Berners-Lee_CP_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tim_Berners-Lee_CP_2.jpg/380px-Tim_Berners-Lee_CP_2.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tim_Berners-Lee_CP_2.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></div>
+</div>
+</div>
+<p>The term <a href="/wiki/HyperText" title="HyperText" class="mw-redirect">HyperText</a> was coined by <a href="/wiki/Ted_Nelson" title="Ted Nelson">Ted Nelson</a> who in turn was inspired by <a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a>'s microfilm-based "<a href="/wiki/Memex" title="Memex">memex</a>". <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> first proposed the "WorldWideWeb" project&#160;— now known as the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>. Berners-Lee and his team are credited with inventing the original HTTP along with HTML and the associated technology for a web server and a text-based web browser. The first version of the protocol had only one <a href="/wiki/Method_(computer_science)" title="Method (computer science)" class="mw-redirect">method</a>, namely GET, which would request a page from a server.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The response from the server was always an HTML page.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The first documented version of HTTP was <b><a rel="nofollow" class="external text" href="http://www.w3.org/pub/WWW/Protocols/HTTP/AsImplemented.html">HTTP V0.9</a></b> (1991). <a href="/wiki/Dave_Raggett" title="Dave Raggett">Dave Raggett</a> led the <a href="/w/index.php?title=HTTP_Working_Group&amp;action=edit&amp;redlink=1" class="new" title="HTTP Working Group (page does not exist)">HTTP Working Group</a> (HTTP WG) in 1995 and wanted to expand the protocol with extended operations, extended negotiation, richer meta-information, tied with a security protocol which became more efficient by adding additional methods and header fields.<sup id="cite_ref-raggettprofile_5-0" class="reference"><a href="#cite_note-raggettprofile-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <a class="external mw-magiclink-rfc" href="//tools.ietf.org/html/rfc1945">RFC 1945</a> officially introduced and recognized HTTP V1.0 in 1996.</p>
+<p>The HTTP WG planned to publish new standards in December 1995<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> and the support for pre-standard HTTP/1.1 based on the then developing <a class="external mw-magiclink-rfc" href="//tools.ietf.org/html/rfc2068">RFC 2068</a> (called HTTP-NG) was rapidly adopted by the major browser developers in early 1996. By March 1996, pre-standard HTTP/1.1 was supported in <a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a>,<sup id="cite_ref-simon_8-0" class="reference"><a href="#cite_note-simon-8"><span>[</span>8<span>]</span></a></sup> <a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape 2.0</a>,<sup id="cite_ref-simon_8-1" class="reference"><a href="#cite_note-simon-8"><span>[</span>8<span>]</span></a></sup> Netscape Navigator Gold 2.01,<sup id="cite_ref-simon_8-2" class="reference"><a href="#cite_note-simon-8"><span>[</span>8<span>]</span></a></sup> <a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">Mosaic 2.7</a>,<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from September 2010">citation needed</span></a></i>]</sup> <a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx 2.5</a><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from September 2010">citation needed</span></a></i>]</sup>, and in <a href="/wiki/Internet_Explorer_2" title="Internet Explorer 2">Internet Explorer 2.0</a><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from September 2010">citation needed</span></a></i>]</sup>. End-user adoption of the new browsers was rapid. In March 1996, one web hosting company reported that over 40% of browsers in use on the Internet were HTTP 1.1 compliant.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from August 2010">citation needed</span></a></i>]</sup> That same web hosting company reported that by June 1996, 65% of all browsers accessing their servers were HTTP/1.1 compliant.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The HTTP/1.1 standard as defined in <a class="external mw-magiclink-rfc" href="//tools.ietf.org/html/rfc2068">RFC 2068</a> was officially released in January 1997. Improvements and updates to the HTTP/1.1 standard were released under <a class="external mw-magiclink-rfc" href="//tools.ietf.org/html/rfc2616">RFC 2616</a> in June 1999.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=3" title="Edit section: HTTP session">edit</a>]</span> <span class="mw-headline" id="HTTP_session">HTTP session</span></h2>
+<p>An HTTP session is a sequence of network request-response transactions. An HTTP client initiates a request by establishing a <a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">Transmission Control Protocol</a> (TCP) connection to a particular <a href="/wiki/TCP_and_UDP_port" title="TCP and UDP port" class="mw-redirect">port</a> on a server (typically port 80; see <a href="/wiki/List_of_TCP_and_UDP_port_numbers" title="List of TCP and UDP port numbers">List of TCP and UDP port numbers</a>). An HTTP server listening on that port waits for a client's request message. Upon receiving the request, the server sends back a status line, such as "HTTP/1.1 200 OK", and a message of its own. The body of this message is typically the requested resource, although an error message or other information may also be returned.<sup id="cite_ref-ietf2616_1-1" class="reference"><a href="#cite_note-ietf2616-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=4" title="Edit section: Request methods">edit</a>]</span> <span class="mw-headline" id="Request_methods">Request methods</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Http_request_telnet_ubuntu.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Http_request_telnet_ubuntu.png/220px-Http_request_telnet_ubuntu.png" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Http_request_telnet_ubuntu.png/330px-Http_request_telnet_ubuntu.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Http_request_telnet_ubuntu.png/440px-Http_request_telnet_ubuntu.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Http_request_telnet_ubuntu.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+An HTTP request made using telnet. The request, response headers and response body are highlighted.</div>
+</div>
+</div>
+<p>HTTP defines methods (sometimes referred to as <i>verbs</i>) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server. Often, the resource corresponds to a file or the output of an executable residing on the server.</p>
+<p>The HTTP/1.0 specification<sup id="cite_ref-rfc1945_10-0" class="reference"><a href="#cite_note-rfc1945-10"><span>[</span>10<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:section 8</sup> defined the GET, POST and HEAD methods and the HTTP/1.1 specification<sup id="cite_ref-ietf2616_1-2" class="reference"><a href="#cite_note-ietf2616-1"><span>[</span>1<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:section 9</sup> added 5 new methods: OPTIONS, PUT, DELETE, TRACE and CONNECT. By being specified in these documents their semantics are well known and can be depended upon. Any client can use any method and the server can be configured to support any combination of methods. If a method is unknown to an intermediate it will be treated as an unsafe and non-idempotent method. There is no limit to the number of methods that can be defined and this allows for future methods to be specified without breaking existing infrastructure. For example <a href="/wiki/WebDAV" title="WebDAV">WebDAV</a> defined 7 new methods and RFC5789 specified the PATCH method.</p>
+<dl>
+<dt><b>GET</b></dt>
+<dd>Requests a representation of the specified resource. Requests using GET should only <a href="/wiki/Data_retrieval" title="Data retrieval">retrieve data</a> and should have no other effect. (This is also true of some other HTTP methods.)<sup id="cite_ref-ietf2616_1-3" class="reference"><a href="#cite_note-ietf2616-1"><span>[</span>1<span>]</span></a></sup> The <a href="/wiki/W3C" title="W3C" class="mw-redirect">W3C</a> has published guidance principles on this distinction, saying, "<a href="/wiki/Web_application" title="Web application">Web application</a> design should be informed by the above principles, but also by the relevant limitations."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> See <a href="#Safe_methods">safe methods</a> below.</dd>
+<dt><b>HEAD</b></dt>
+<dd>Asks for the response identical to the one that would correspond to a GET request, but without the response body. This is useful for retrieving meta-information written in response headers, without having to transport the entire content.</dd>
+<dt><b><a href="/wiki/POST_(HTTP)" title="POST (HTTP)">POST</a></b>&#160;</dt>
+<dd>Requests that the server accept the <a href="/wiki/Entity%E2%80%93relationship_model#The_building_blocks:_entities.2C_relationships.2C_and_attributes" title="Entity–relationship model">entity</a> enclosed in the request as a new subordinate of the <a href="/wiki/Resource_(Web)" title="Resource (Web)">resource</a> identified by the URI. The data POSTed might be, as examples, an annotation for existing resources; a message for a bulletin board, newsgroup, mailing list, or comment thread; a block of data that is the result of submitting a <a href="/wiki/Form_(HTML)" title="Form (HTML)">web form</a> to a data-handling process; or an item to add to a database.<sup id="cite_ref-ietf2616-section-9.5_12-0" class="reference"><a href="#cite_note-ietf2616-section-9.5-12"><span>[</span>12<span>]</span></a></sup></dd>
+<dt><b>PUT</b></dt>
+<dd>Requests that the enclosed entity be stored under the supplied URI. If the URI refers to an already existing resource, it is modified; if the URI does not point to an existing resource, then the server can create the resource with that URI.<sup id="cite_ref-ietf2616-section-9.6_13-0" class="reference"><a href="#cite_note-ietf2616-section-9.6-13"><span>[</span>13<span>]</span></a></sup></dd>
+<dt><b>DELETE</b></dt>
+<dd>Deletes the specified resource.</dd>
+<dt><b>TRACE</b></dt>
+<dd>Echoes back the received request so that a client can see what (if any) changes or additions have been made by intermediate servers.</dd>
+<dt><b>OPTIONS</b></dt>
+<dd>Returns the HTTP methods that the server supports for specified <a href="/wiki/URL" title="URL" class="mw-redirect">URL</a>. This can be used to check the functionality of a web server by requesting '*' instead of a specific resource.</dd>
+<dt><b>CONNECT</b></dt>
+<dd>Converts the request connection to a transparent <a href="/wiki/Tunneling_protocol" title="Tunneling protocol">TCP/IP tunnel</a>, usually to facilitate <a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">SSL</a>-encrypted communication (<a href="/wiki/HTTPS" title="HTTPS" class="mw-redirect">HTTPS</a>) through an unencrypted <a href="/wiki/HTTP_proxy" title="HTTP proxy" class="mw-redirect">HTTP proxy</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></dd>
+<dt><b>PATCH</b></dt>
+<dd>Is used to apply partial modifications to a resource.<sup id="cite_ref-rfc5789_15-0" class="reference"><a href="#cite_note-rfc5789-15"><span>[</span>15<span>]</span></a></sup></dd>
+</dl>
+<p>HTTP servers are required to implement at least the GET and HEAD methods<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> and, whenever possible, also the OPTIONS method.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from August 2008">citation needed</span></a></i>]</sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=5" title="Edit section: Safe methods">edit</a>]</span> <span class="mw-headline" id="Safe_methods">Safe methods</span></h3>
+<p>Some methods (for example, HEAD, GET, OPTIONS and TRACE) are defined as <i>safe</i>, which means they are intended only for information retrieval and should not change the state of the server. In other words, they should not have <a href="/wiki/Side_effect_(computer_science)" title="Side effect (computer science)">side effects</a>, beyond relatively harmless effects such as <a href="/wiki/Server_log" title="Server log">logging</a>, <a href="/wiki/Web_cache" title="Web cache">caching</a>, the serving of <a href="/wiki/Web_banner" title="Web banner">banner advertisements</a> or incrementing a <a href="/wiki/Web_counter" title="Web counter">web counter</a>. Making arbitrary GET requests without regard to the context of the application's state should therefore be considered safe.</p>
+<p>By contrast, methods such as POST, PUT and DELETE are intended for actions that may cause side effects either on the server, or external side effects such as <a href="/wiki/Ecommerce" title="Ecommerce" class="mw-redirect">financial transactions</a> or transmission of <a href="/wiki/Email" title="Email">email</a>. Such methods are therefore not usually used by conforming <a href="/wiki/Internet_bot" title="Internet bot">web robots</a> or <a href="/wiki/Web_crawler" title="Web crawler">web crawlers</a>; some that do not conform tend to make requests without regard to context or consequences.</p>
+<p>Despite the prescribed safety of <i>GET</i> requests, in practice their handling by the server is not technically limited in any way. Therefore, careless or deliberate programming can cause non-trivial changes on the server. This is discouraged, because it can cause problems for <a href="/wiki/Web_caching" title="Web caching" class="mw-redirect">Web caching</a>, <a href="/wiki/Search_engines" title="Search engines" class="mw-redirect">search engines</a> and other automated agents, which can make unintended changes on the server.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=6" title="Edit section: Idempotent methods and web applications">edit</a>]</span> <span class="mw-headline" id="Idempotent_methods_and_web_applications">Idempotent methods and web applications</span></h3>
+<p>Methods PUT and DELETE are defined to be <a href="/wiki/Idempotent" title="Idempotent" class="mw-redirect">idempotent</a>, meaning that multiple identical requests should have the same effect as a single request (Note that idempotence refers to the state of the system after the request has completed, so while the action the server takes (e.g. deleting a record) or the response code it returns may be different on subsequent requests, the system state will be the same every time). Methods GET, HEAD, OPTIONS and TRACE, being prescribed as safe, should also be idempotent, as HTTP is a <a href="/wiki/Stateless_protocol" title="Stateless protocol">stateless protocol</a>.<sup id="cite_ref-ietf2616_1-4" class="reference"><a href="#cite_note-ietf2616-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In contrast, the POST method is not necessarily idempotent, and therefore sending an identical POST request multiple times may further affect state or cause further side effects (such as <a href="/wiki/Ecommerce" title="Ecommerce" class="mw-redirect">financial transactions</a>). In some cases this may be desirable, but in other cases this could be due to an accident, such as when a user does not realize that their action will result in sending another request, or they did not receive adequate feedback that their first request was successful. While <a href="/wiki/Web_browser" title="Web browser">web browsers</a> may show <a href="/wiki/Alert_dialog_box" title="Alert dialog box">alert dialog boxes</a> to warn users in some cases where reloading a page may re-submit a POST request, it is generally up to the web application to handle cases where a POST request should not be submitted more than once.</p>
+<p>Note that whether a method is idempotent is not enforced by the protocol or web server. It is perfectly possible to write a web application in which (for example) a database insert or other non-idempotent action is triggered by a GET or other request. Ignoring this recommendation, however, may result in undesirable consequences, if a <a href="/wiki/User_agent" title="User agent">user agent</a> assumes that repeating the same request is safe when it isn't.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=7" title="Edit section: Security">edit</a>]</span> <span class="mw-headline" id="Security">Security</span></h3>
+<p>Implementing methods such as TRACE, TRACK and DEBUG is considered potentially insecure by some security professionals because attackers can use them to gather information or bypass security controls during attacks. Security software tools such as Tenable Nessus and Microsoft UrlScan Security Tool report on the presence of these methods as being security issues.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=8" title="Edit section: Status codes">edit</a>]</span> <span class="mw-headline" id="Status_codes">Status codes</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/List_of_HTTP_status_codes" title="List of HTTP status codes">List of HTTP status codes</a></div>
+<p>In HTTP/1.0 and since, the first line of the HTTP response is called the <i>status line</i> and includes a numeric <i>status code</i> (such as "<a href="/wiki/HTTP_404" title="HTTP 404">404</a>") and a textual <i>reason phrase</i> (such as "Not Found"). The way the <a href="/wiki/User_agent" title="User agent">user agent</a> handles the response primarily depends on the code and secondarily on the response headers. Custom status codes can be used since, if the user agent encounters a code it does not recognize, it can use the first digit of the code to determine the general class of the response.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>Also, the standard <i>reason phrases</i> are only recommendations and can be replaced with "local equivalents" at the <a href="/wiki/Web_developer" title="Web developer">web developer</a>'s discretion. If the status code indicated a problem, the user agent might display the <i>reason phrase</i> to the user to provide further information about the nature of the problem. The standard also allows the user agent to attempt to interpret the <i>reason phrase</i>, though this might be unwise since the standard explicitly specifies that status codes are machine-readable and <i>reason phrases</i> are human-readable.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=9" title="Edit section: Persistent connections">edit</a>]</span> <span class="mw-headline" id="Persistent_connections">Persistent connections</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/HTTP_persistent_connection" title="HTTP persistent connection">HTTP persistent connection</a></div>
+<p>In HTTP/0.9 and 1.0, the connection is closed after a single request/response pair. In HTTP/1.1 a keep-alive-mechanism was introduced, where a connection could be reused for more than one request. Such <i>persistent connections</i> reduce request <a href="/wiki/Latency_(engineering)" title="Latency (engineering)">latency</a> perceptibly, because the client does not need to re-negotiate the TCP connection after the first request has been sent. Another positive side effect is that in general the connection becomes faster with time due to TCP's <a href="/wiki/Slow-start" title="Slow-start">slow-start</a>-mechanism.</p>
+<p>Version 1.1 of the protocol also made bandwidth optimization improvements to HTTP/1.0. For example, HTTP/1.1 introduced <a href="/wiki/Chunked_transfer_encoding" title="Chunked transfer encoding">chunked transfer encoding</a> to allow content on persistent connections to be streamed rather than buffered. <a href="/wiki/HTTP_pipelining" title="HTTP pipelining">HTTP pipelining</a> further reduces lag time, allowing clients to send multiple requests before waiting for each response. Another improvement to the protocol was <a href="/wiki/Byte_serving" title="Byte serving">byte serving</a>, where a server transmits just the portion of a resource explicitly requested by a client.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=10" title="Edit section: HTTP session state">edit</a>]</span> <span class="mw-headline" id="HTTP_session_state">HTTP session state</span></h2>
+<p>HTTP is a <a href="/wiki/Stateless_protocol" title="Stateless protocol">stateless protocol</a>. A stateless protocol does not require the HTTP server to retain information or status about each user for the duration of multiple requests. However, some <a href="/wiki/Web_application" title="Web application">web applications</a> implement states or <a href="/wiki/Session_(computer_science)" title="Session (computer science)">server side sessions</a> using one or more of the following methods:</p>
+<ul>
+<li><a href="/wiki/HTTP_cookie" title="HTTP cookie">HTTP cookies</a>.</li>
+<li><a href="/wiki/Query_string" title="Query string">Query string</a> parameters, for example, <tt>/index.php?session_id=some_unique_session_code</tt>.</li>
+<li>Hidden variables within <a href="/wiki/Form_(web)" title="Form (web)" class="mw-redirect">web forms</a>.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=11" title="Edit section: Secure HTTP">edit</a>]</span> <span class="mw-headline" id="Secure_HTTP">Secure HTTP</span></h2>
+<p>There are three methods of establishing a secure HTTP connection: <a href="/wiki/HTTP_Secure" title="HTTP Secure">HTTP Secure</a>, <a href="/wiki/Secure_Hypertext_Transfer_Protocol" title="Secure Hypertext Transfer Protocol">Secure Hypertext Transfer Protocol</a> and the <a href="/wiki/HTTP/1.1_Upgrade_header" title="HTTP/1.1 Upgrade header">HTTP/1.1 Upgrade header</a>. Browser support for the latter two is, however, nearly non-existent,<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from July 2011">citation needed</span></a></i>]</sup> so HTTP Secure is the dominant method of establishing a secure HTTP connection.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=12" title="Edit section: Request message">edit</a>]</span> <span class="mw-headline" id="Request_message">Request message</span></h2>
+<p>The request message consists of the following:</p>
+<ul>
+<li>A request line, for example <tt>GET /images/logo.png HTTP/1.1</tt>, which requests a resource called <tt>/images/logo.png</tt> from the server.</li>
+<li><a href="/wiki/List_of_HTTP_headers" title="List of HTTP headers" class="mw-redirect">Headers</a>, such as <tt>Accept-Language: en</tt></li>
+<li>An empty line.</li>
+<li>An optional message body.</li>
+</ul>
+<p>The request line and headers must all end with &lt;CR&gt;&lt;LF&gt; (that is, a <a href="/wiki/Carriage_return" title="Carriage return">carriage return</a> character followed by a <a href="/wiki/Line_feed" title="Line feed" class="mw-redirect">line feed</a> character). The empty line must consist of only &lt;CR&gt;&lt;LF&gt; and no other <a href="/wiki/Whitespace_(computer_science)" title="Whitespace (computer science)" class="mw-redirect">whitespace</a>.<sup id="cite_ref-fielding1999_19-0" class="reference"><a href="#cite_note-fielding1999-19"><span>[</span>19<span>]</span></a></sup> In the HTTP/1.1 protocol, all headers except Host are optional.</p>
+<p>A request line containing only the path name is accepted by servers to maintain compatibility with HTTP clients before the HTTP/1.0 specification in <a class="external mw-magiclink-rfc" href="//tools.ietf.org/html/rfc1945">RFC 1945</a>.<sup id="cite_ref-apacheweek_com-http11_20-0" class="reference"><a href="#cite_note-apacheweek_com-http11-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=13" title="Edit section: Response message">edit</a>]</span> <span class="mw-headline" id="Response_message">Response message</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/HTTP_response" title="HTTP response" class="mw-redirect">HTTP response</a></div>
+<p>The response message consists of the following:</p>
+<ul>
+<li>A Status-Line (for example <tt>HTTP/1.1 200 OK</tt>, which indicates that the client's request succeeded)</li>
+<li><a href="/wiki/List_of_HTTP_headers" title="List of HTTP headers" class="mw-redirect">Headers</a>, such as <tt>Content-Type: text/html</tt></li>
+<li>An empty line</li>
+<li>An optional message body</li>
+</ul>
+<p>The Status-Line and headers must all end with &lt;CR&gt;&lt;LF&gt; (a <a href="/wiki/Carriage_return" title="Carriage return">carriage return</a> followed by a <a href="/wiki/Line_feed" title="Line feed" class="mw-redirect">line feed</a>). The empty line must consist of only &lt;CR&gt;&lt;LF&gt; and no other <a href="/wiki/Whitespace_(computer_science)" title="Whitespace (computer science)" class="mw-redirect">whitespace</a>.<sup id="cite_ref-fielding1999_19-1" class="reference"><a href="#cite_note-fielding1999-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=14" title="Edit section: Example session">edit</a>]</span> <span class="mw-headline" id="Example_session">Example session</span></h2>
+<p>Below is a sample conversation between an HTTP client and an HTTP server running on <a href="/wiki/Example.com" title="Example.com">www.example.com</a>, port 80.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=15" title="Edit section: Client request">edit</a>]</span> <span class="mw-headline" id="Client_request">Client request</span></h3>
+<pre>
+ GET /index.html HTTP/1.1
+ Host: www.example.com
+</pre>
+<p>A client request (consisting in this case of the request line and only one header) is followed by a blank line, so that the request ends with a double newline, each in the form of a <a href="/wiki/Carriage_return" title="Carriage return">carriage return</a> followed by a <a href="/wiki/Line_feed" title="Line feed" class="mw-redirect">line feed</a>. The "Host" header distinguishes between various <a href="/wiki/Domain_Name_System" title="Domain Name System">DNS</a> names sharing a single <a href="/wiki/IP_address" title="IP address">IP address</a>, allowing name-based <a href="/wiki/Virtual_hosting" title="Virtual hosting">virtual hosting</a>. While optional in HTTP/1.0, it is mandatory in HTTP/1.1.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=16" title="Edit section: Server response">edit</a>]</span> <span class="mw-headline" id="Server_response">Server response</span></h3>
+<pre>
+ HTTP/1.1 200 OK
+ Date: Mon, 23 May 2005 22:38:34 GMT
+ Server: Apache/1.3.3.7 (Unix) (Red-Hat/Linux)
+ Last-Modified: Wed, 08 Jan 2003 23:11:55 GMT
+ Etag: "3f80f-1b6-3e1cb03b"
+ Accept-Ranges:  none
+ Content-Length: 438
+ Connection: close
+ Content-Type: text/html; charset=UTF-8
+</pre>
+<p>The <a href="/wiki/HTTP_ETag" title="HTTP ETag">ETag</a> (entity tag) header is used to determine if a cached version of the requested resource is identical to the current version of the resource on the server. <i>Content-Type</i> specifies the <a href="/wiki/Internet_media_type" title="Internet media type">Internet media type</a> of the data conveyed by the HTTP message, while <i>Content-Length</i> indicates its length in bytes. The HTTP/1.1 <a href="/wiki/Webserver" title="Webserver" class="mw-redirect">webserver</a> publishes its ability to respond to requests for certain byte ranges of the document by setting the header <i>Accept-Ranges: bytes</i>. This is useful, if the client needs to have only certain portions<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> of a resource sent by the server, which is called <a href="/wiki/Byte_serving" title="Byte serving">byte serving</a>. When <i>Connection: close</i> is sent in a header, it means that the <a href="/wiki/Web_server" title="Web server">web server</a> will close the <a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">TCP</a> connection immediately after the transfer of this response.</p>
+<p>Most of the header lines are optional. When <i>Content-Length</i> is missing the length is determined in other ways. Chunked transfer encoding uses a chunk size of 0 to mark the end of the content. <i>Identity</i> encoding without <i>Content-Length</i> reads content until the socket is closed.</p>
+<p>A <i>Content-Encoding</i> like <i>gzip</i> can be used to compress the transmitted data.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=18" title="Edit section: HTTP replacements or enhancements">edit</a>]</span> <span class="mw-headline" id="HTTP_replacements_or_enhancements">HTTP replacements or enhancements</span></h3>
+<ul>
+<li><a href="/wiki/Representational_State_Transfer" title="Representational State Transfer" class="mw-redirect">Representational State Transfer</a> (REST)</li>
+<li><a href="/wiki/SPDY" title="SPDY">SPDY</a> - A HTTP enhancement proposed by <a href="/wiki/Google" title="Google">Google</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">WebSocket</a></li>
+<li><a href="/wiki/Waka_(protocol)" title="Waka (protocol)" class="mw-redirect">Waka (protocol)</a> - A HTTP replacement proposed by <a href="/wiki/Roy_Fielding" title="Roy Fielding">Roy Fielding</a></li>
+<li>HTTP-MPLEX - A backwards compatible enhancement to HTTP to improve page and web object retrieval time in congested networks proposed by Robert Mattson</li>
+<li><a href="/wiki/HTTP_2.0" title="HTTP 2.0">HTTP 2.0</a> - currently being worked on by the IETF's Hypertext Transfer Protocol Bis (httpbis) working group.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></li>
+<li><a href="/wiki/Constrained_Application_Protocol" title="Constrained Application Protocol">Constrained Application Protocol</a> - A semantically similar protocol to HTTP but used UDP or UDP-like messages targeted for devices with limited processing capability. Re-uses HTTP and other internet concepts like <a href="/wiki/Internet_media_type" title="Internet media type">Internet media type</a> and web linking (<a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc5988">RFC 5988</a>).</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=19" title="Edit section: Further information">edit</a>]</span> <span class="mw-headline" id="Further_information">Further information</span></h3>
+<ul>
+<li><a href="/wiki/Basic_access_authentication" title="Basic access authentication">Basic access authentication</a></li>
+<li><a href="/wiki/Content_negotiation" title="Content negotiation">Content negotiation</a></li>
+<li><a href="/wiki/HTTP_compression" title="HTTP compression">HTTP compression</a></li>
+<li><a href="/wiki/Hxxp" title="Hxxp">Hxxp</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=20" title="Edit section: Related topics and technologies">edit</a>]</span> <span class="mw-headline" id="Related_topics_and_technologies">Related topics and technologies</span></h3>
+<ul>
+<li><a href="/wiki/Curl-loader" title="Curl-loader">Curl-loader</a> - HTTP/S loading and testing open-source software</li>
+<li><a href="/wiki/Digest_access_authentication" title="Digest access authentication">Digest access authentication</a></li>
+<li><a href="/wiki/List_of_file_transfer_protocols" title="List of file transfer protocols">List of file transfer protocols</a></li>
+<li><a href="/wiki/List_of_HTTP_header_fields" title="List of HTTP header fields">List of HTTP header fields</a></li>
+<li><a href="/wiki/List_of_HTTP_status_codes" title="List of HTTP status codes">List of HTTP status codes</a></li>
+<li><a href="/wiki/Web_cache" title="Web cache">Web cache</a></li>
+<li><a href="/wiki/WebDAV" title="WebDAV">WebDAV</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=21" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ietf2616-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ietf2616_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ietf2616_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ietf2616_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ietf2616_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ietf2616_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Fielding, Roy T.; Gettys, James; Mogul, Jeffrey C.; Nielsen, Henrik Frystyk; Masinter, Larry; Leach, Paul J.; Berners-Lee (June 1999). <a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc2616">"RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://tools.ietf.org/html/rfc2616">http://tools.ietf.org/html/rfc2616</a></span>.</span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Fielding, et al. <a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec1.html#sec1.4">Internet RFC 2616."</a>, section 1.4. Retrieved on January 21, 2009.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Berners-Lee, Tim. <a rel="nofollow" class="external text" href="http://www.w3.org/History/19921103-hypertext/hypertext/WWW/Protocols/HTTP.html">"HyperText Transfer Protocol"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/History/19921103-hypertext/hypertext/WWW/Protocols/HTTP.html">http://www.w3.org/History/19921103-hypertext/hypertext/WWW/Protocols/HTTP.html</a></span><span class="reference-accessdate">. Retrieved 31 August 2010</span>.</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a>. <a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/HTTP/AsImplemented.html">"The Original HTTP as defined in 1991"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/HTTP/AsImplemented.html">http://www.w3.org/Protocols/HTTP/AsImplemented.html</a></span><span class="reference-accessdate">. Retrieved 24 July 2010</span>.</span></span></li>
+<li id="cite_note-raggettprofile-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-raggettprofile_5-0">^</a></b></span> <span class="reference-text"><span class="citation web">Raggett, Dave. <a rel="nofollow" class="external text" href="http://www.w3.org/People/Raggett/profile.html">"Dave Raggett's Bio"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/People/Raggett/profile.html">http://www.w3.org/People/Raggett/profile.html</a></span><span class="reference-accessdate">. Retrieved 11 June 2010</span>.</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">Raggett, Dave; Berners-Lee, Tim. <a rel="nofollow" class="external text" href="http://www.w3.org/Arena/webworld/httpwgcharter.html">"Hypertext Transfer Protocol Working Group"</a>. World Wide Web Consortium<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Arena/webworld/httpwgcharter.html">http://www.w3.org/Arena/webworld/httpwgcharter.html</a></span><span class="reference-accessdate">. Retrieved 29 September 2010</span>.</span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web">Raggett, Dave. <a rel="nofollow" class="external text" href="http://www.w3.org/Arena/webworld/httpwgplans.html">"HTTP WG Plans"</a>. World Wide Web Consortium<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Arena/webworld/httpwgplans.html">http://www.w3.org/Arena/webworld/httpwgplans.html</a></span><span class="reference-accessdate">. Retrieved 29 September 2010</span>.</span></span></li>
+<li id="cite_note-simon-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-simon_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-simon_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-simon_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a href="/w/index.php?title=Simon_Spero&amp;action=edit&amp;redlink=1" class="new" title="Simon Spero (page does not exist)">Simon Spero</a>. <a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/HTTP-NG/http-ng-status.html">"Progress on HTTP-NG"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/HTTP-NG/http-ng-status.html">http://www.w3.org/Protocols/HTTP-NG/http-ng-status.html</a></span><span class="reference-accessdate">. Retrieved 11 June 2010</span>.</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.webcom.com/glossary/http1.1.shtml">"HTTP/1.1"</a>. <i>Webcom.com Glossary entry</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.webcom.com/glossary/http1.1.shtml">http://www.webcom.com/glossary/http1.1.shtml</a></span><span class="reference-accessdate">. Retrieved 2009-05-29</span>.</span></span></li>
+<li id="cite_note-rfc1945-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-rfc1945_10-0">^</a></b></span> <span class="reference-text"><span class="citation IETF_document">Berners-Lee, Tim; Fielding, Roy T.; Nielsen, Henrik Frystyk. <a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc1945"><i>RFC 1945: Hypertext Transfer Protocol -- HTTP/1.0</i></a><span class="printonly">. <a rel="nofollow" class="external free" href="http://tools.ietf.org/html/rfc1945">http://tools.ietf.org/html/rfc1945</a></span>.</span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web">Jacobs, Ian (2004). <a rel="nofollow" class="external text" href="http://www.w3.org/2001/tag/doc/whenToUseGet.html#checklist">"URIs, Addressability, and the use of HTTP GET and POST"</a>. <i>Technical Architecture Group finding</i>. W3C<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/2001/tag/doc/whenToUseGet.html#checklist">http://www.w3.org/2001/tag/doc/whenToUseGet.html#checklist</a></span><span class="reference-accessdate">. Retrieved 26 September 2010</span>.</span></span></li>
+<li id="cite_note-ietf2616-section-9.5-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-ietf2616-section-9.5_12-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc2616#section-9.5">"RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1 -- Section 9.5 POST"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://tools.ietf.org/html/rfc2616#section-9.5">http://tools.ietf.org/html/rfc2616#section-9.5</a></span>.</span></span></li>
+<li id="cite_note-ietf2616-section-9.6-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-ietf2616-section-9.6_13-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc2616#section-9.6">"RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1 -- Section 9.6 PUT"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://tools.ietf.org/html/rfc2616#section-9.6">http://tools.ietf.org/html/rfc2616#section-9.6</a></span>.</span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.kb.cert.org/vuls/id/150227">"Vulnerability Note VU#150227: HTTP proxy default configurations allow arbitrary TCP connections"</a>. <a href="/wiki/CERT_Coordination_Center" title="CERT Coordination Center">US-CERT</a>. 2002-05-17<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.kb.cert.org/vuls/id/150227">http://www.kb.cert.org/vuls/id/150227</a></span><span class="reference-accessdate">. Retrieved 2007-05-10</span>.</span></span></li>
+<li id="cite_note-rfc5789-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-rfc5789_15-0">^</a></b></span> <span class="reference-text"><span class="citation web">Dusseault, Lisa; Snell, James M.. <a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc5789">"RFC 5789: PATCH Method for HTTP"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://tools.ietf.org/html/rfc5789">http://tools.ietf.org/html/rfc5789</a></span>.</span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc2616#section-5.1.1">"HTTP 1.1 Section 5.1.1"</a>. Tools.ietf.org<span class="printonly">. <a rel="nofollow" class="external free" href="http://tools.ietf.org/html/rfc2616#section-5.1.1">http://tools.ietf.org/html/rfc2616#section-5.1.1</a></span><span class="reference-accessdate">. Retrieved 2010-08-01</span>.</span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/security/cc242650.aspx">"UrlScan Security Tool"</a>. <i>Security TechCenter</i>. Microsoft<span class="printonly">. <a rel="nofollow" class="external free" href="http://technet.microsoft.com/en-us/security/cc242650.aspx">http://technet.microsoft.com/en-us/security/cc242650.aspx</a></span><span class="reference-accessdate">. Retrieved 15 Jul 2012</span>.</span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6.1">"6.1 Status-Line"</a>. W3.org<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6.1">http://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6.1</a></span><span class="reference-accessdate">. Retrieved 2010-08-01</span>.</span></span></li>
+<li id="cite_note-fielding1999-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-fielding1999_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fielding1999_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a href="/w/index.php?title=Fielding_et_al&amp;action=edit&amp;redlink=1" class="new" title="Fielding et al (page does not exist)">Fielding</a> (June 1999). <a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html">"HTTP/1.1"</a>. <a href="/wiki/IETF" title="IETF" class="mw-redirect">IETF</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html">http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html</a></span><span class="reference-accessdate">. Retrieved 19 January 2012</span>.</span></span></li>
+<li id="cite_note-apacheweek_com-http11-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-apacheweek_com-http11_20-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.apacheweek.com/features/http11">"Apache Week. HTTP/1.1"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.apacheweek.com/features/http11">http://www.apacheweek.com/features/http11</a></span>.</span> 090502 apacheweek.com</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://tools.ietf.org/html/draft-ietf-http-range-retrieval-00">Tools.ietf.org</a>, Byte Range Retrieval Extension to HTTP</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://datatracker.ietf.org/wg/httpbis/charter/">"Hypertext Transfer Protocol Bis (httpbis) - Charter"</a>. IETF. 2012<span class="printonly">. <a rel="nofollow" class="external free" href="https://datatracker.ietf.org/wg/httpbis/charter/">https://datatracker.ietf.org/wg/httpbis/charter/</a></span>.</span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=22" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/HTTP/AsImplemented.html">HTTP 0.9 - As Implemented in 1991</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:HTTP" class="extiw" title="commons:Category:HTTP">HTTP</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/History.html">"Change History for HTTP"</a>. W3.org<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/History.html">http://www.w3.org/Protocols/History.html</a></span><span class="reference-accessdate">. Retrieved 2010-08-01</span>.</span> A detailed technical history of HTTP.</li>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/DesignIssues.html">"Design Issues for HTTP"</a>. W3.org<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/DesignIssues.html">http://www.w3.org/Protocols/DesignIssues.html</a></span><span class="reference-accessdate">. Retrieved 2010-08-01</span>.</span> Design Issues by Berners-Lee when he was designing the protocol.</li>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/Protocols/Classic.html">"Classic HTTP Documents"</a>. W3.org. 1998-05-14<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.w3.org/Protocols/Classic.html">http://www.w3.org/Protocols/Classic.html</a></span><span class="reference-accessdate">. Retrieved 2010-08-01</span>.</span> list of other classic documents recounting the early protocol history</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_server_software" title="Template:Web server software"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_server_software" title="Template talk:Web server software"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_server_software&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Comparison_of_web_server_software" title="Comparison of web server software">Comparison of web server software</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Internet_Information_Services" title="Internet Information Services">IIS</a></li>
+<li><a href="/wiki/IIS_Express" title="IIS Express" class="mw-redirect">IIS Express</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a></li>
+<li><a href="/wiki/Boa_(web_server)" title="Boa (web server)">Boa</a></li>
+<li><a href="/wiki/Cherokee_(web_server)" title="Cherokee (web server)">Cherokee</a></li>
+<li><a href="/wiki/Hiawatha_(web_server)" title="Hiawatha (web server)">Hiawatha</a></li>
+<li><a href="/wiki/Lighttpd" title="Lighttpd">Lighttpd</a></li>
+<li><a href="/wiki/Nginx" title="Nginx">Nginx</a></li>
+<li><a href="/wiki/Zeus_Web_Server" title="Zeus Web Server">Zeus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GlassFish" title="GlassFish">GlassFish</a></li>
+<li><a href="/wiki/IBM_WebSphere_Application_Server" title="IBM WebSphere Application Server">IBM WebSphere Application Server</a></li>
+<li><a href="/wiki/JBoss" title="JBoss">JBoss</a></li>
+<li><a href="/wiki/Jetty_(web_server)" title="Jetty (web server)">Jetty</a></li>
+<li><a href="/wiki/JOnAS" title="JOnAS">JOnAS</a></li>
+<li><a href="/wiki/Resin_Server" title="Resin Server">Resin</a></li>
+<li><a href="/wiki/Apache_Tomcat" title="Apache Tomcat">Tomcat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Pike_(programming_language)" title="Pike (programming language)">Pike</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caudium_(web_server)" title="Caudium (web server)">Caudium</a></li>
+<li><a href="/wiki/Roxen_(web_server)" title="Roxen (web server)">Roxen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zope" title="Zope">Zope</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mongrel_(web_server)" title="Mongrel (web server)">Mongrel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Semantic_Web" title="Template:Semantic Web"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Semantic_Web" title="Template talk:Semantic Web"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Semantic_Web&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Background</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database" title="Database">Databases</a></li>
+<li><a href="/wiki/Hypertext" title="Hypertext">Hypertext</a></li>
+<li><a href="/wiki/Internet" title="Internet">Internet</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontologies</a></li>
+<li><a href="/wiki/Semantic_network" title="Semantic network">Semantic networks</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Sub-topics</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_Web" title="Data Web">Data Web</a></li>
+<li><a href="/wiki/Dataspaces" title="Dataspaces">Dataspaces</a></li>
+<li><a href="/wiki/Dereferenceable_Uniform_Resource_Identifier" title="Dereferenceable Uniform Resource Identifier">Dereferenceable URIs</a></li>
+<li><a href="/wiki/Hyperdata" title="Hyperdata">Hyperdata</a></li>
+<li><a href="/wiki/Linked_data" title="Linked data">Linked data</a></li>
+<li><a href="/wiki/Rule-based_system" title="Rule-based system">Rule-based systems</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Applications</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Semantic_advertising" title="Semantic advertising">Semantic advertising</a></li>
+<li><a href="/wiki/Semantic_analytics" title="Semantic analytics">Semantic analytics</a></li>
+<li><a href="/wiki/Semantic_broker" title="Semantic broker">Semantic broker</a></li>
+<li><a href="/wiki/Semantic_computing" title="Semantic computing">Semantic computing</a></li>
+<li><a href="/wiki/Semantic_mapper" title="Semantic mapper">Semantic mapper</a></li>
+<li><a href="/wiki/Semantic_matching" title="Semantic matching">Semantic matching</a></li>
+<li><a href="/wiki/Semantic_publishing" title="Semantic publishing">Semantic publishing</a></li>
+<li><a href="/wiki/Semantic_reasoner" title="Semantic reasoner">Semantic reasoner</a></li>
+<li><a href="/wiki/Semantic_search" title="Semantic search">Semantic search</a></li>
+<li><a href="/wiki/Semantic_service-oriented_architecture" title="Semantic service-oriented architecture">Semantic service-oriented architecture</a></li>
+<li><a href="/wiki/Semantic_wiki" title="Semantic wiki">Semantic wiki</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Related topics</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective intelligence</a></li>
+<li><a href="/wiki/Description_logic" title="Description logic">Description logic</a></li>
+<li><a href="/wiki/Folksonomy" title="Folksonomy">Folksonomy</a></li>
+<li><a href="/wiki/Geotagging" title="Geotagging">Geotagging</a></li>
+<li><a href="/wiki/Information_architecture" title="Information architecture">Information architecture</a></li>
+<li><a href="/wiki/Knowledge_extraction" title="Knowledge extraction">Knowledge extraction</a></li>
+<li><a href="/wiki/Knowledge_management" title="Knowledge management">Knowledge management</a></li>
+<li><a href="/wiki/Library_2.0" title="Library 2.0">Library 2.0</a></li>
+<li><a href="/wiki/Metadata" title="Metadata">Metadata</a></li>
+<li><a href="/wiki/Mind_map" title="Mind map">Mind mapping</a></li>
+<li><a href="/wiki/ODBC" title="ODBC">ODBC</a></li>
+<li><a href="/wiki/Reference_(computer_science)" title="Reference (computer science)">References</a></li>
+<li><a href="/wiki/Topic_Maps" title="Topic Maps">Topic Maps</a></li>
+<li><a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a></li>
+<li><a href="/wiki/Web_Science_Trust" title="Web Science Trust">Web Science Trust</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Standards</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Syntax and supporting technologies</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">HTTP</strong></li>
+<li><a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a>
+<ul>
+<li><small><a href="/wiki/RDF/XML" title="RDF/XML">RDF/XML</a></small></li>
+<li><small><a href="/wiki/Notation3" title="Notation3">Notation3</a></small></li>
+<li><small><a href="/wiki/Turtle_(syntax)" title="Turtle (syntax)">Turtle</a></small></li>
+<li><small><a href="/wiki/N-Triples" title="N-Triples">N-Triples</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/SPARQL" title="SPARQL">SPARQL</a></li>
+<li><a href="/wiki/Uniform_resource_identifier" title="Uniform resource identifier">URI</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Schemas, ontologies and rules</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_logic" title="Common logic">Common logic</a></li>
+<li><a href="/wiki/Web_Ontology_Language" title="Web Ontology Language">OWL</a></li>
+<li><a href="/wiki/RDF_Schema" title="RDF Schema">RDFS</a></li>
+<li><a href="/wiki/Rule_Interchange_Format" title="Rule Interchange Format">Rule Interchange Format</a></li>
+<li><a href="/wiki/Semantic_Web_Rule_Language" title="Semantic Web Rule Language">Semantic Web Rule Language</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Semantic annotation</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Embedded_RDF" title="Embedded RDF">eRDF</a></li>
+<li><a href="/wiki/GRDDL" title="GRDDL">GRDDL</a></li>
+<li><a href="/wiki/Microformat" title="Microformat">Microformats</a></li>
+<li><a href="/wiki/RDFa" title="RDFa">RDFa</a></li>
+<li><a href="/wiki/SAWSDL" title="SAWSDL">SAWSDL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Common vocabularies</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a></li>
+<li><a href="/wiki/FOAF_(software)" title="FOAF (software)">FOAF</a></li>
+<li><a href="/wiki/Semantically-Interlinked_Online_Communities" title="Semantically-Interlinked Online Communities">SIOC</a></li>
+<li><a href="/wiki/Simple_Knowledge_Organization_System" title="Simple Knowledge Organization System">SKOS</a></li>
+<li><a href="/wiki/UMBEL" title="UMBEL">UMBEL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:URI_scheme" title="Template:URI scheme"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:URI_scheme" title="Template talk:URI scheme"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:URI_scheme&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/URI_scheme" title="URI scheme">URI scheme</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Official</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AAA_protocol" title="AAA protocol">aaa</a></li>
+<li><a href="/wiki/AAA_protocol" title="AAA protocol">aaas</a></li>
+<li><a href="/wiki/About_URI_scheme" title="About URI scheme">about</a></li>
+<li><a href="/wiki/Application_Configuration_Access_Protocol" title="Application Configuration Access Protocol">acap</a></li>
+<li><a href="//tools.ietf.org/html/rfc4324" class="extiw" title="rfc:4324">cap</a></li>
+<li><a href="/wiki/MIME" title="MIME">cid</a></li>
+<li><a href="/wiki/Content_Reference_Identifier" title="Content Reference Identifier">crid</a></li>
+<li><a href="/wiki/Data_URI_scheme" title="Data URI scheme">data</a></li>
+<li><a href="/wiki/WebDAV" title="WebDAV">dav</a></li>
+<li><a href="/wiki/DICT" title="DICT">dict</a></li>
+<li><a href="/wiki/Domain_Name_System" title="Domain Name System">dns</a></li>
+<li><a href="/wiki/Fax" title="Fax">fax</a></li>
+<li><a href="/wiki/File_URI_scheme" title="File URI scheme">file</a></li>
+<li><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">ftp</a></li>
+<li><a href="/wiki/Geo_URI" title="Geo URI">geo</a></li>
+<li><a href="//tools.ietf.org/html/rfc3368" class="extiw" title="rfc:3368">go</a></li>
+<li><a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">gopher</a></li>
+<li><a href="/wiki/H.323" title="H.323">h323</a></li>
+<li><strong class="selflink">http</strong></li>
+<li><a href="/wiki/HTTP_Secure" title="HTTP Secure">https</a></li>
+<li><a href="/wiki/Inter-Asterisk_eXchange" title="Inter-Asterisk eXchange">iax</a></li>
+<li><a href="/wiki/Instant_messaging" title="Instant messaging">im</a></li>
+<li><a href="/wiki/Internet_Message_Access_Protocol" title="Internet Message Access Protocol">imap</a></li>
+<li><a href="/wiki/Info_URI_scheme" title="Info URI scheme">info</a></li>
+<li><a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">ldap</a></li>
+<li><a href="/wiki/Mailto" title="Mailto">mailto</a></li>
+<li><a href="/wiki/MIME" title="MIME">mid</a></li>
+<li><a href="/wiki/Usenet" title="Usenet">news</a></li>
+<li><a href="/wiki/Network_File_System" title="Network File System">nfs</a></li>
+<li><a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">nntp</a></li>
+<li><a href="/wiki/Post_Office_Protocol" title="Post Office Protocol">pop</a></li>
+<li><a href="/wiki/Rsync" title="Rsync">rsync</a></li>
+<li><a href="/wiki/Presence_information" title="Presence information">pres</a></li>
+<li><a href="/wiki/Real_Time_Streaming_Protocol" title="Real Time Streaming Protocol">rtsp</a></li>
+<li><a href="/wiki/Session_Initiation_Protocol" title="Session Initiation Protocol">sip</a></li>
+<li><a href="/wiki/Sips_URI_scheme" title="Sips URI scheme" class="mw-redirect">sips</a></li>
+<li><a href="/wiki/Simple_Network_Management_Protocol" title="Simple Network Management Protocol">snmp</a></li>
+<li><a href="/wiki/Tag_URI" title="Tag URI">tag</a></li>
+<li><a href="/wiki/Plain_old_telephone_service" title="Plain old telephone service">tel</a></li>
+<li><a href="/wiki/Telnet" title="Telnet">telnet</a></li>
+<li><a href="/wiki/Trivial_File_Transfer_Protocol" title="Trivial File Transfer Protocol">tftp</a></li>
+<li><a href="/wiki/Uniform_resource_name" title="Uniform resource name" class="mw-redirect">urn</a></li>
+<li><a href="/wiki/View-source_URI_scheme" title="View-source URI scheme">view-source</a></li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">wais</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">ws</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">wss</a></li>
+<li><a href="/wiki/Extensible_Messaging_and_Presence_Protocol" title="Extensible Messaging and Presence Protocol" class="mw-redirect">xmpp</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Unofficial</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apple_Filing_Protocol" title="Apple Filing Protocol">afp</a></li>
+<li><a href="/wiki/AOL_Instant_Messenger" title="AOL Instant Messenger">aim</a></li>
+<li><a href="/wiki/Advanced_Packaging_Tool" title="Advanced Packaging Tool">apt</a></li>
+<li><a href="/wiki/Bolo_(1987_video_game)" title="Bolo (1987 video game)">bolo</a></li>
+<li><a href="/wiki/Bazaar_(software)" title="Bazaar (software)" class="mw-redirect">bzr</a></li>
+<li><a href="/wiki/Skype" title="Skype">callto</a></li>
+<li><a href="/wiki/Hyper_Text_Coffee_Pot_Control_Protocol" title="Hyper Text Coffee Pot Control Protocol">coffee</a></li>
+<li><a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">cvs</a></li>
+<li><a href="/wiki/Digital_Audio_Access_Protocol" title="Digital Audio Access Protocol">daap</a></li>
+<li><a href="/wiki/Distributed_Social_Networking_Protocol" title="Distributed Social Networking Protocol">dsnp</a></li>
+<li><a href="/wiki/Ed2k_URI_scheme" title="Ed2k URI scheme">ed2k</a></li>
+<li><a href="/wiki/Feed_URI_scheme" title="Feed URI scheme">feed</a></li>
+<li><a href="/wiki/Files_transferred_over_shell_protocol" title="Files transferred over shell protocol">fish</a></li>
+<li><a href="/wiki/Gadu-Gadu" title="Gadu-Gadu">gg</a></li>
+<li><a href="/wiki/Git_(software)" title="Git (software)">git</a></li>
+<li><a href="/wiki/Gizmo5" title="Gizmo5">gizmoproject</a></li>
+<li><a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">irc</a></li>
+<li><a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">ircs</a></li>
+<li><a href="/wiki/ITunes_Store" title="ITunes Store">itms</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">javascript</a></li>
+<li><a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">ldaps</a></li>
+<li><a href="/wiki/Magnet_URI_scheme" title="Magnet URI scheme">magnet</a></li>
+<li><a href="/wiki/Microsoft_Media_Server" title="Microsoft Media Server">mms</a></li>
+<li><a href="/wiki/Windows_Live_Messenger" title="Windows Live Messenger">msnim</a></li>
+<li><a href="/wiki/Postal_2" title="Postal 2">postal2</a></li>
+<li><a href="/wiki/Second_Life" title="Second Life">secondlife</a></li>
+<li><a href="/wiki/Skype" title="Skype">skype</a></li>
+<li><a href="/wiki/Spotify" title="Spotify">spotify</a></li>
+<li><a href="/wiki/Secure_Shell" title="Secure Shell">ssh</a></li>
+<li><a href="/wiki/Apache_Subversion" title="Apache Subversion">svn</a></li>
+<li><a href="/wiki/SSH_File_Transfer_Protocol" title="SSH File Transfer Protocol">sftp</a></li>
+<li><a href="/wiki/Server_Message_Block" title="Server Message Block">smb</a></li>
+<li><a href="/wiki/SMS" title="SMS" class="mw-redirect">sms</a></li>
+<li><a href="/wiki/Steam_(software)" title="Steam (software)">steam</a></li>
+<li><a href="/wiki/Webcal" title="Webcal">webcal</a></li>
+<li><a href="/wiki/Winamp" title="Winamp">winamp</a></li>
+<li><a href="/wiki/WYCIWYG" title="WYCIWYG">wyciwyg</a></li>
+<li><a href="/wiki/Xfire" title="Xfire">xfire</a></li>
+<li><a href="/wiki/Yahoo!_Messenger" title="Yahoo! Messenger">ymsgr</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div><a href="/wiki/List_of_network_protocols_(OSI_model)" title="List of network protocols (OSI model)">Protocol list</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_browsers" title="Template:Web browsers"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_browsers" title="Template talk:Web browsers"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_browsers&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Web_browser" title="Web browser">Web browsers</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison</a></li>
+<li><a href="/wiki/History_of_the_web_browser" title="History of the web browser">History</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List</a> (<a href="/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems" title="List of web browsers for Unix and Unix-like operating systems">for Unix</a>)</li>
+<li><a href="/wiki/Timeline_of_web_browsers" title="Timeline of web browsers">Timeline</a></li>
+<li><a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">Usage share</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Features</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ad_filtering" title="Ad filtering">Ad filtering</a></li>
+<li><a href="/wiki/Augmented_browsing" title="Augmented browsing">Augmented browsing</a></li>
+<li><a href="/wiki/Download_manager" title="Download manager">Download manager</a></li>
+<li><a href="/wiki/HTTP_cookie" title="HTTP cookie">Cookies</a></li>
+<li><a href="/wiki/Favicon" title="Favicon">Favicon</a></li>
+<li><a href="/wiki/Incremental_search" title="Incremental search">Incremental search</a></li>
+<li><a href="/wiki/Bookmark_(World_Wide_Web)" title="Bookmark (World Wide Web)">Bookmarks</a> (<a href="/wiki/Bookmarklet" title="Bookmarklet">Bookmarklet</a></li>
+<li><a href="/wiki/Live_bookmark" title="Live bookmark" class="mw-redirect">Live bookmark</a></li>
+<li><a href="/wiki/Smart_Bookmark" title="Smart Bookmark" class="mw-redirect">Smart Bookmark</a>)</li>
+<li><a href="/wiki/Browser_security" title="Browser security">Browser security</a></li>
+<li><a href="/wiki/Privacy_mode" title="Privacy mode">Privacy mode</a></li>
+<li><a href="/wiki/Browser_synchronizer" title="Browser synchronizer">Browser synchronizer</a> (<a href="/wiki/Comparison_of_browser_synchronizers" title="Comparison of browser synchronizers">comparison</a>)</li>
+<li><a href="/wiki/Tab_(GUI)" title="Tab (GUI)">Tabbed browsing</a></li>
+<li><a href="/wiki/Universal_Edit_Button" title="Universal Edit Button">Universal Edit Button</a></li>
+<li><a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">Plugin</a></li>
+<li><a href="/wiki/Browser_extension" title="Browser extension">Extension</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Web standards</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Web_Standards_Project" title="Web Standards Project">Acid tests</a></li>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><a href="/wiki/HTML5" title="HTML5">HTML5</a></li>
+<li><a href="/wiki/Online_Certificate_Status_Protocol" title="Online Certificate Status Protocol">OCSP</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/XHTML" title="XHTML">XHTML</a></li>
+<li><a href="/wiki/WebGL" title="WebGL">WebGL</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li>
+<li><a href="/wiki/MathML" title="MathML">MathML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Related topics</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/GUI_widget" title="GUI widget">Widget</a></li>
+<li><a href="/wiki/Rich_Internet_application" title="Rich Internet application">Rich Internet application</a></li>
+<li><a href="/wiki/Site-specific_browser" title="Site-specific browser">Site-specific browser</a></li>
+<li><a href="/wiki/Internet_suite" title="Internet suite">Internet suite</a></li>
+<li><a href="/wiki/Mobile_Web" title="Mobile Web">Mobile Web</a></li>
+<li><a href="/wiki/Offline_reader" title="Offline reader">Offline reader</a></li>
+<li><a href="/wiki/BrowserChoice.eu" title="BrowserChoice.eu">BrowserChoice.eu</a></li>
+<li><a href="/wiki/Pwn2Own" title="Pwn2Own">Pwn2Own</a></li>
+<li><a href="/wiki/ILoo" title="ILoo">iLoo</a></li>
+<li><a href="/wiki/Man-in-the-browser" title="Man-in-the-browser">Man-in-the-browser</a></li>
+<li><a href="/wiki/Web_Proxy_Autodiscovery_Protocol" title="Web Proxy Autodiscovery Protocol">WPAD</a></li>
+<li><a href="/wiki/Proxy_auto-config" title="Proxy auto-config">PAC</a></li>
+<li><a href="/wiki/SPDY" title="SPDY">SPDY</a></li>
+<li><strong class="selflink">HTTP</strong></li>
+<li><a href="/wiki/HTTP_Secure" title="HTTP Secure">HTTPS</a></li>
+<li><a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">SSL/TLS</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">WebSocket</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+<li><a href="/wiki/Revocation_list" title="Revocation list">CRL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Desktop_computer" title="Desktop computer">Desktop</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Gecko_(layout_engine)" title="Gecko (layout engine)">Gecko</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/AT%26T_Pogo" title="AT&amp;T Pogo">AT&amp;T Pogo</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><a href="/wiki/Camino" title="Camino">Camino</a></li>
+<li><a href="/wiki/Firefox" title="Firefox">Firefox</a> (<a href="/wiki/Epic_(web_browser)" title="Epic (web browser)">Epic</a></li>
+<li><a href="/wiki/Conkeror" title="Conkeror">Conkeror</a></li>
+<li><a href="/wiki/GNU_IceCat" title="GNU IceCat">GNU IceCat</a></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+<li><a href="/wiki/Pentadactyl_(extension)" title="Pentadactyl (extension)">Pentadactyl</a></li>
+<li><a href="/wiki/Timberwolf_(web_browser)" title="Timberwolf (web browser)">Timberwolf</a></li>
+<li><a href="/wiki/Swiftfox" title="Swiftfox">Swiftfox</a></li>
+<li><a href="/wiki/Swiftweasel" title="Swiftweasel">Swiftweasel</a></li>
+<li><a href="/wiki/TenFourFox" title="TenFourFox">TenFourFox</a></li>
+<li><a href="/wiki/Vimperator" title="Vimperator">Vimperator</a></li>
+<li><a href="/wiki/XB_Browser" title="XB Browser">xB Browser</a>)</li>
+<li><i><a href="/wiki/Galeon" title="Galeon">Galeon</a></i></li>
+<li><i><a href="/wiki/Ghostzilla" title="Ghostzilla">Ghostzilla</a></i></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><i><a href="/wiki/Kazehakase" title="Kazehakase">Kazehakase</a></i></li>
+<li><a href="/wiki/Kirix_Strata" title="Kirix Strata">Kirix Strata</a></li>
+<li><i><a href="/wiki/IBM_Lotus_Symphony" title="IBM Lotus Symphony">Lotus Symphony</a></i></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><i><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla</a></i> (<i><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></i></li>
+<li><a href="/wiki/Classilla" title="Classilla">Classilla</a></li>
+<li><i><a href="/wiki/Netscape_(web_browser)" title="Netscape (web browser)">Netscape</a></i></li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Arora_(web_browser)" title="Arora (web browser)">Arora</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><a href="/wiki/Chromium_(web_browser)" title="Chromium (web browser)">Chromium</a> (<a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a></li>
+<li><a href="/wiki/Comodo_Dragon_(web_browser)" title="Comodo Dragon (web browser)">Dragon</a></li>
+<li><a href="/wiki/RockMelt" title="RockMelt">RockMelt</a></li>
+<li><a href="/wiki/SRWare_Iron" title="SRWare Iron">SRWare Iron</a></li>
+<li><a href="/wiki/Torch_browser" title="Torch browser">Torch</a></li>
+<li><a href="/wiki/Yandex.Browser" title="Yandex.Browser" class="mw-redirect">Yandex.Browser</a>)</li>
+<li><a href="/wiki/Dooble" title="Dooble">Dooble</a></li>
+<li><i><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a></i></li>
+<li><a href="/wiki/Fluid_(web_browser)" title="Fluid (web browser)">Fluid</a></li>
+<li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Konqueror" title="Konqueror">Konqueror</a></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/Midori_(web_browser)" title="Midori (web browser)">Midori</a></li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+<li><a href="/wiki/Origyn_Web_Browser" title="Origyn Web Browser">Origyn Web Browser</a></li>
+<li><a href="/wiki/QupZilla" title="QupZilla">QupZilla</a></li>
+<li><a href="/wiki/Rekonq" title="Rekonq">rekonq</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><i><a href="/wiki/Shiira" title="Shiira">Shiira</a></i></li>
+<li><a href="/wiki/Sleipnir_(web_browser)" title="Sleipnir (web browser)">Sleipnir</a></li>
+<li><a href="/wiki/Uzbl" title="Uzbl">Uzbl</a></li>
+<li><a href="/wiki/Web_(web_browser)" title="Web (web browser)">Web</a></li>
+<li><a href="/wiki/WebPositive" title="WebPositive">WebPositive</a></li>
+<li><a href="/wiki/Xombrero" title="Xombrero">xombrero</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Presto_(layout_engine)" title="Presto (layout engine)">Presto</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Opera_(web_browser)" title="Opera (web browser)">Opera</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Internet_Explorer_shell" title="Internet Explorer shell">Trident</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/AOL_Explorer" title="AOL Explorer">AOL Explorer</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><i><a href="/wiki/Deepnet_Explorer" title="Deepnet Explorer">Deepnet Explorer</a></i></li>
+<li><a href="/wiki/GreenBrowser" title="GreenBrowser">GreenBrowser</a></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/MenuBox" title="MenuBox">MenuBox</a></li>
+<li><i><a href="/wiki/NeoPlanet" title="NeoPlanet">NeoPlanet</a></i></li>
+<li><i><a href="/wiki/NetCaptor" title="NetCaptor">NetCaptor</a></i></li>
+<li><a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a></li>
+<li><i><a href="/wiki/MediaBrowser" title="MediaBrowser">MediaBrowser</a></i></li>
+<li><a href="/wiki/Sleipnir_(web_browser)" title="Sleipnir (web browser)">Sleipnir</a></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBrowser</a></li>
+<li><a href="/wiki/SpaceTime_(software)#SpaceTime_Browser" title="SpaceTime (software)"><i>SpaceTime</i></a></li>
+<li><i><a href="/wiki/UltraBrowser" title="UltraBrowser">UltraBrowser</a></i></li>
+<li><a href="/wiki/WebbIE" title="WebbIE">WebbIE</a></li>
+<li><a href="/wiki/ZAC_Browser" title="ZAC Browser">ZAC Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Text-based_web_browser" title="Text-based web browser">Text</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ELinks" title="ELinks">ELinks</a></li>
+<li><i><a href="/wiki/Emacs/W3" title="Emacs/W3">Emacs/W3</a></i></li>
+<li><i><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a></i></li>
+<li><a href="/wiki/Links_(web_browser)" title="Links (web browser)">Links</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx</a></li>
+<li><i><a href="/wiki/Net-Tamer" title="Net-Tamer">Net-Tamer</a></i></li>
+<li><a href="/wiki/W3m" title="W3m">w3m</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abaco_(web_browser)" title="Abaco (web browser)">abaco</a></li>
+<li><a href="/wiki/Amaya_(web_browser)" title="Amaya (web browser)" class="mw-redirect">Amaya</a></li>
+<li><i><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></i></li>
+<li><i><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></i></li>
+<li><a href="/wiki/Charon_(web_browser)" title="Charon (web browser)">Charon</a></li>
+<li><a href="/wiki/Dillo" title="Dillo">Dillo</a></li>
+<li><a href="/wiki/Gazelle_(web_browser)" title="Gazelle (web browser)">Gazelle</a></li>
+<li><i><a href="/wiki/IBM_Home_Page_Reader" title="IBM Home Page Reader">IBM Home Page Reader</a></i></li>
+<li><i><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></i></li>
+<li><a href="/wiki/KidZui" title="KidZui">KidZui</a></li>
+<li><i><a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">Mosaic</a></i></li>
+<li><i><a href="/wiki/Mothra_(web_browser)" title="Mothra (web browser)">Mothra</a></i></li>
+<li><i><a href="/wiki/NetPositive" title="NetPositive">NetPositive</a></i></li>
+<li><a href="/wiki/NetSurf" title="NetSurf">NetSurf</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Mobile_browser" title="Mobile browser">Mobile</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Gecko_(layout_engine)" title="Gecko (layout engine)">Gecko</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Firefox_for_mobile" title="Firefox for mobile">Firefox for mobile</a></li>
+<li><a href="/wiki/MicroB" title="MicroB">MicroB</a></li>
+<li><i><a href="/wiki/Minimo" title="Minimo">Minimo</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Presto_(layout_engine)" title="Presto (layout engine)">Presto</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nintendo_DS_%26_DSi_Browser" title="Nintendo DS &amp; DSi Browser">Nintendo DS &amp; DSi Browser</a></li>
+<li><a href="/wiki/Opera_Mini" title="Opera Mini">Opera Mini</a></li>
+<li><a href="/wiki/Opera_Mobile" title="Opera Mobile">Opera Mobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Android_Browser" title="Android Browser" class="mw-redirect">Android Browser</a></li>
+<li><a href="/wiki/Google_Chrome_for_Android" title="Google Chrome for Android">Chrome</a></li>
+<li><a href="/wiki/Dolphin_Browser" title="Dolphin Browser">Dolphin Browser</a></li>
+<li><a href="/wiki/Web_Browser_for_S60" title="Web Browser for S60" class="mw-redirect">S60 web browser</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Amazon_Silk" title="Amazon Silk">Silk</a></li>
+<li><a href="/wiki/Nintendo_3DS_Internet_Browser" title="Nintendo 3DS Internet Browser">Nintendo 3DS Internet Browser</a></li>
+<li><a href="/wiki/Steel_(web_browser)" title="Steel (web browser)">Steel</a></li>
+<li><a href="/wiki/Bolt_(web_browser)" title="Bolt (web browser)">BOLT</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blazer_(web_browser)" title="Blazer (web browser)">Blazer</a></li>
+<li><i><a href="/wiki/Microsoft_Live_Labs_Deepfish" title="Microsoft Live Labs Deepfish">Deepfish</a></i></li>
+<li><i><a href="/wiki/Galio" title="Galio">Galio</a></i></li>
+<li><a href="/wiki/IbisBrowser" title="IbisBrowser">ibisBrowser</a></li>
+<li><a href="/wiki/Internet_Explorer_Mobile" title="Internet Explorer Mobile">Internet Explorer Mobile</a></li>
+<li><a href="/wiki/Iris_Browser" title="Iris Browser">Iris Browser</a></li>
+<li><a href="/wiki/Konqueror_Embedded" title="Konqueror Embedded">Konqueror Embedded</a></li>
+<li><a href="/wiki/NetFront" title="NetFront">NetFront</a></li>
+<li><a href="/wiki/Obigo_Browser" title="Obigo Browser">Obigo Browser</a></li>
+<li><a href="/wiki/Skweezer" title="Skweezer">Skweezer</a></li>
+<li><a href="/wiki/Skyfire_(web_browser)" title="Skyfire (web browser)">Skyfire</a></li>
+<li><a href="/wiki/Teashark" title="Teashark">Teashark</a></li>
+<li><a href="/wiki/ThunderHawk_(web_browser)" title="ThunderHawk (web browser)">ThunderHawk</a></li>
+<li><a href="/wiki/UC_Browser" title="UC Browser">UC Browser</a></li>
+<li><a href="/wiki/UZard_Web" title="UZard Web">uZard Web</a></li>
+<li><a href="/wiki/Vision_Mobile_Browser" title="Vision Mobile Browser">Vision</a></li>
+<li><a href="/wiki/WinWAP" title="WinWAP">WinWAP</a></li>
+<li><a href="/wiki/BlackBerry_Browser" title="BlackBerry Browser" class="mw-redirect">BlackBerry Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Television_set" title="Television set">Television</a> and <a href="/wiki/Video_game_console" title="Video game console">video game console</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Gecko_(layout_engine)" title="Gecko (layout engine)">Gecko</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kylo_(web_browser)" title="Kylo (web browser)">Kylo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Presto_(layout_engine)" title="Presto (layout engine)">Presto</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Internet_Channel" title="Internet Channel">Internet Channel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_TV" title="Google TV">Google TV</a></li>
+<li><a href="/wiki/NetFront" title="NetFront">NetFront</a></li>
+<li><a href="/wiki/Steam_(software)#Steam_Community" title="Steam (software)">Steam overlay</a></li>
+<li><a href="/w/index.php?title=Wii_U_Internet_Browser&amp;action=edit&amp;redlink=1" class="new" title="Wii U Internet Browser (page does not exist)">Wii U Internet Browser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;text-align: left;background-color: #d6d6fb;;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Galio" title="Galio">Galio</a></i></li>
+<li><a href="/wiki/MSN_TV" title="MSN TV">MSN TV</a> (WebTV)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div>
+<ul>
+<li><span style="font-size:85%;">Software no longer in development shown in <i>italics</i></span></li>
+</ul>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" /> <b><a href="/wiki/Category:Web_browsers" title="Category:Web browsers">Category</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" />&#160;<a href="//commons.wikimedia.org/wiki/Category:Web_browsers" class="extiw" title="commons:Category:Web browsers"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 22001/1000000
+Preprocessor generated node count: 64853/1500000
+Post-expand include size: 324314/2048000 bytes
+Template argument size: 182845/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 7/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13443-0!*!0!!en!4!* and timestamp 20121229081720 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Hypertext_Transfer_Protocol&amp;oldid=528832043">http://en.wikipedia.org/w/index.php?title=Hypertext_Transfer_Protocol&amp;oldid=528832043</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:HTTP" title="Category:HTTP">HTTP</a></li><li><a href="/wiki/Category:Application_layer_protocols" title="Category:Application layer protocols">Application layer protocols</a></li><li><a href="/wiki/Category:Open_formats" title="Category:Open formats">Open formats</a></li><li><a href="/wiki/Category:Web_browsers" title="Category:Web browsers">Web browsers</a></li><li><a href="/wiki/Category:World_Wide_Web" title="Category:World Wide Web">World Wide Web</a></li><li><a href="/wiki/Category:World_Wide_Web_Consortium_standards" title="Category:World Wide Web Consortium standards">World Wide Web Consortium standards</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2010" title="Category:Articles with unsourced statements from September 2010">Articles with unsourced statements from September 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2010" title="Category:Articles with unsourced statements from August 2010">Articles with unsourced statements from August 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2008" title="Category:Articles with unsourced statements from August 2008">Articles with unsourced statements from August 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li><li><a href="/wiki/Category:Article_Feedback_5_Additional_Articles" title="Category:Article Feedback 5 Additional Articles">Article Feedback 5 Additional Articles</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hypertext+Transfer+Protocol&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hypertext+Transfer+Protocol" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hypertext_Transfer_Protocol"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Hypertext_Transfer_Protocol"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Hypertext_Transfer_Protocol" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" role="navigation" id='p-interaction'>
+	<h3>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hypertext_Transfer_Protocol" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hypertext_Transfer_Protocol" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;oldid=528832043" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Hypertext_Transfer_Protocol&amp;id=528832043" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" role="navigation" id='p-coll-print_export'>
+	<h3>Print/export</h3>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hypertext+Transfer+Protocol" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hypertext+Transfer+Protocol&amp;oldid=528832043&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hypertext_Transfer_Protocol&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/HTTP" title="HTTP" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84_%D9%86%D9%82%D9%84_%D8%A7%D9%84%D9%86%D8%B5_%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D9%82" title="بروتوكول نقل النص الفائق" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/HTTP" title="HTTP" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%B0_%E0%A6%9F%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F_%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AB%E0%A6%BE%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B%E0%A6%95%E0%A6%B2" title="হাইপার টেক্সট ট্রান্সফার প্রোটোকল" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/HTTP" title="HTTP" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/HTTP" title="HTTP" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/HTTP" title="HTTP" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="bs" hreflang="bs">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Protocol_de_transfer%C3%A8ncia_d%27hipertext" title="Protocol de transferència d'hipertext" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/HTTP" title="HTTP" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/HTTP" title="HTTP" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/H%C3%BCperteksti_edastusprotokoll" title="Hüperteksti edastusprotokoll" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A0%CF%81%CF%89%CF%84%CF%8C%CE%BA%CE%BF%CE%BB%CE%BB%CE%BF_%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%AC%CF%82_%CE%A5%CF%80%CE%B5%CF%81%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85" title="Πρωτόκολλο Μεταφοράς Υπερκειμένου" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Hiperteksto-Transiga_Protokolo" title="Hiperteksto-Transiga Protokolo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/HTTP" title="HTTP" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D9%84_%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84_%D8%A7%D8%A8%D8%B1%D9%85%D8%AA%D9%86" title="پروتکل انتقال ابرمتن" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Pr%C3%B3tacal_Aistrithe_Hipirt%C3%A9acs" title="Prótacal Aistrithe Hipirtéacs" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/HTTP" title="HTTP" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/HTTP" title="HTTP" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/HTTP" title="HTTP" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Protokol_Transfer_Hiperteks" title="Protokol Transfer Hiperteks" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/HTTP" title="HTTP" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lb"><a href="//lb.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="lb" hreflang="lb">Lëtzebuergesch</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/HTTP" title="HTTP" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/HTTP" title="HTTP" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%B7%D0%B0_%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D1%81_%D0%BD%D0%B0_%D1%85%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%B5%D0%BA%D1%81%D1%82" title="Протокол за пренос на хипертекст" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B9%E0%B5%88%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%BC_%E0%B4%9F%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E2%80%8C_%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B5%BB%E0%B4%B8%E0%B5%8D%E0%B4%AB%E0%B5%BC_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8B%E0%B4%95%E0%B5%8B%E0%B5%BE" title="ഹൈപ്പർ ടെക്സ്റ്റ്‌ ട്രാൻസ്ഫർ പ്രോട്ടോകോൾ" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Protokol_Pemindahan_Hiperteks" title="Protokol Pemindahan Hiperteks" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-new"><a href="//new.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A_%E0%A4%9F%E0%A5%80_%E0%A4%9F%E0%A5%80_%E0%A4%AA%E0%A5%80" title="एच टी टी पी" lang="new" hreflang="new">नेपाल भाषा</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/HTTP" title="HTTP" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-mhr"><a href="//mhr.wikipedia.org/wiki/HTTP" title="HTTP" lang="mhr" hreflang="mhr">Олык марий</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/HTTP" title="HTTP" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/HTTP" title="HTTP" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Hypertextov%C3%BD_prenosov%C3%BD_protokol" title="Hypertextový prenosový protokol" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/HTTP" title="HTTP" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/HTTP" title="HTTP" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/HTTP" title="HTTP" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/HTTP" title="HTTP" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/HTTP" title="HTTP" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/HTTP" title="HTTP" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%80%E0%AE%AF%E0%AF%81%E0%AE%B0%E0%AF%88_%E0%AE%AA%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1_%E0%AE%A8%E0%AF%86%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88" title="மீயுரை பரிமாற்ற நெறிமுறை" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-te"><a href="//te.wikipedia.org/wiki/HTTP_(%E0%B0%B9%E0%B1%86%E0%B0%9A%E0%B1%8D%E2%80%8C%E0%B0%9F%E0%B0%BF%E0%B0%9F%E0%B0%BF%E0%B0%AA%E0%B0%BF)" title="HTTP (హెచ్‌టిటిపి)" lang="te" hreflang="te">తెలుగు</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%97%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B8%9E%E0%B8%B5" title="เอชทีทีพี" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tg"><a href="//tg.wikipedia.org/wiki/HTTP" title="HTTP" lang="tg" hreflang="tg">Тоҷикӣ</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/HTTP" title="HTTP" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/HTTP" title="HTTP" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-fiu-vro"><a href="//fiu-vro.wikipedia.org/wiki/HTTP" title="HTTP" lang="fiu-vro" hreflang="fiu-vro">Võro</a></li>
+			<li class="interwiki-yo"><a href="//yo.wikipedia.org/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol" lang="yo" hreflang="yo">Yorùbá</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/HTTP" title="HTTP" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="interwiki-diq"><a href="//diq.wikipedia.org/wiki/HTTP" title="HTTP" lang="diq" hreflang="diq">Zazaki</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="超文本传输协议" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 December 2012 at 18:08.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/wiki/Hypertext_Transfer_Protocol" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv225 in 0.189 secs. -->
+	</body>
+</html>

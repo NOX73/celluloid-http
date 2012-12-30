@@ -7,9 +7,9 @@ Gem::Specification.new do |gem|
   gem.name          = "celluloid-http"
   gem.version       = Celluloid::Http::VERSION
   gem.authors       = ["Rozhnov Alexandr"]
-  gem.email         = ["nox73@ya.ru"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["gnox73@gmail.com"]
+  gem.description   = %q{Http requests for celluloid.}
+  gem.summary       = %q{Http requests for celluloid. Based on Celluloid::IO.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)

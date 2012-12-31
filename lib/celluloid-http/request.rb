@@ -8,6 +8,7 @@ class Celluloid::Http::Request
   attr_accessor :method, :body
 
   def_delegators :@uri, :scheme, :host, :path, :port, :query
+  def_delegators :@uri, :scheme=, :host=, :path=, :port=
 
   def initialize(url, options = {})
     @url = url

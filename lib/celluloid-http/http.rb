@@ -1,6 +1,6 @@
 module Celluloid::Http::Http
 
-  def send_requst(request)
+  def send_request(request)
     connection = Celluloid::Http::Connection.open(request.host, request.port)
     connection.send_request request
 

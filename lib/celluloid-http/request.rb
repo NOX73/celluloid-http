@@ -20,7 +20,7 @@ class Celluloid::Http::Request
   end
 
   def query_params
-    @query_params ||= Rack::Utils.parse_nested_query @uri.query
+    Rack::Utils.parse_nested_query @uri.query
   end
 
   def to_s
@@ -36,8 +36,8 @@ class Celluloid::Http::Request
   end
 
   def merge_query_params(params)
-    query_params.merge! params
-    self.query = query_params
+    params = query_params.merge params
+    self.query = params
   end
 
 end

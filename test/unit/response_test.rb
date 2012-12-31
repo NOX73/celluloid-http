@@ -27,5 +27,17 @@ class ResponseTest < TestCase
     assert_equal "en", response.headers["Content-Language"]
   end
 
+  def test_symbol_ok_http_status
+    response = Celluloid::Http::Response.new(200)
+
+    assert_equal :ok, response.sym_status
+  end
+
+  def test_symbol_not_found_http_status
+    response = Celluloid::Http::Response.new(404)
+
+    assert_equal :not_found, response.sym_status
+  end
+
 
 end

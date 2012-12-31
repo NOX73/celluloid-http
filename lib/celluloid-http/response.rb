@@ -1,6 +1,8 @@
 class Celluloid::Http::Response
   extend Forwardable
 
+  STATUS_CODES          = Rack::Utils::HTTP_STATUS_CODES
+
   def_delegators :parser, :<<
 
   attr_writer :status
@@ -33,6 +35,14 @@ class Celluloid::Http::Response
 
   def parser
     @parser ||= Http::Parser.new(self)
+  end
+
+  def reason
+    STATUS_CODES[status]
+  end
+
+  def sym_status
+    reason.downcase.gsub(/\s|-/, '_').to_sym
   end
 
 end

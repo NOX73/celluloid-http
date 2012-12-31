@@ -2,6 +2,7 @@ require "celluloid-http/version"
 require "uri"
 require "http_parser.rb"
 require "celluloid/io"
+require "rack"
 
 module Celluloid
   module Http

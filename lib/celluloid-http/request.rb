@@ -14,7 +14,7 @@ class Celluloid::Http::Request
     @url = url
     @uri = URI.parse url
     @method = options[:method] || DEFAULT_METHOD
-    @body = options[:body]
+    @raw_body = options[:raw_body]
 
     merge_query_params(options[:query_params]) if options[:query_params]
   end

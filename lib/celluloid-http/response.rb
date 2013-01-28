@@ -6,11 +6,12 @@ class Celluloid::Http::Response
   def_delegators :parser, :<<
 
   attr_writer :status
-  attr_accessor :headers, :body
+  attr_accessor :headers, :raw_body
 
-  def initialize(status = nil, headers = {}, body = "")
+  def initialize(status = nil, headers = {}, body = nil)
     @status, @headers, @body = status, headers, body
-    @finished = false
+    @raw_body = ""
+    @finished = !!@body
   end
 
   def status
@@ -18,6 +19,7 @@ class Celluloid::Http::Response
   end
 
   def on_message_complete
+    @body = decoded_body
     @finished = true
   end
 
@@ -26,7 +28,7 @@ class Celluloid::Http::Response
   end
 
   def on_body(chunk)
-    @body << chunk
+    @raw_body << chunk
   end
 
   def on_headers_complete(headers)
@@ -43,6 +45,15 @@ class Celluloid::Http::Response
 
   def sym_status
     reason.downcase.gsub(/\s|-/, '_').to_sym
+  end
+
+  def body
+    on_message_complete unless finished?
+    @body ||= ""
+  end
+
+  def decoded_body
+    Celluloid::Http::BodyDecoder.decode(headers, raw_body)
   end
 
 end

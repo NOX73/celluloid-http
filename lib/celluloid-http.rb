@@ -10,6 +10,8 @@ module Celluloid
     autoload :Request, 'celluloid-http/request'
     autoload :Http, 'celluloid-http/http'
     autoload :Connection, 'celluloid-http/connection'
+    autoload :Builder, 'celluloid-http/builder'
+    autoload :BodyDecoder, 'celluloid-http/body_decoder'
 
     extend Http
   end

@@ -15,6 +15,7 @@ class HttpTest < TestCase
     stub_connection_with_fixture("en.wikipedia.org")
 
     response = Celluloid::Http.get('http://en.wikipedia.org/wiki/Http')
+
     assert_match /Wikipedia, the free encyclopedia/, response.body
   end
 

@@ -9,8 +9,12 @@ module Celluloid::Http::Http
     response
   end
 
-  def get(url)
-    send_request Celluloid::Http::Request.new url
+  def get(*args)
+    send_request Celluloid::Http::Builder.get(*args)
+  end
+
+  def post(*args)
+    send_request Celluloid::Http::Builder.post(*args)
   end
 
 end

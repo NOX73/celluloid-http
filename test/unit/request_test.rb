@@ -45,5 +45,17 @@ class RequestTest < TestCase
     assert_equal 'value3', request.query_params['param3']
   end
 
+  def test_get_http_request_to_s
+    request = Celluloid::Http::Request.new 'http://localhost?param=value'
+
+    string_request = <<-eos
+GET /?param=value HTTP/1.1
+HOST: localhost
+
+eos
+
+    assert_equal string_request, request.to_s
+  end
+
 
 end

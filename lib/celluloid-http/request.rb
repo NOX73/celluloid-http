@@ -11,7 +11,6 @@ class Celluloid::Http::Request
   def_delegators :@uri, :scheme=, :host=, :path=, :port=
 
   def initialize(url, options = {})
-    @url = url
     @uri = URI.parse url
     @method = options[:method] || DEFAULT_METHOD
     @raw_body = options[:raw_body]
@@ -24,11 +23,15 @@ class Celluloid::Http::Request
   end
 
   def to_s
-    "#{method.to_s.upcase} #{url} HTTP/#{DEFAULT_HTTP_VERSION}\nHOST: #{host}\n\n"
+    "#{method.to_s.upcase} #{uri} HTTP/#{DEFAULT_HTTP_VERSION}\nHOST: #{host}\n\n"
   end
 
   def url
     @uri.to_s
+  end
+
+  def uri
+    "#{ "/" if path.length.zero? }#{path}#{ "?" if query }#{query}"
   end
 
   def query=(val)

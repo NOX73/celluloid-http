@@ -22,6 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency('http_parser.rb')
   gem.add_runtime_dependency('activesupport')
 
+  gem.add_development_dependency('rake')
   gem.add_development_dependency('turn')
   gem.add_development_dependency('minitest')
   gem.add_development_dependency('mocha')

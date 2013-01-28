@@ -50,11 +50,29 @@ class RequestTest < TestCase
 
     string_request = <<-eos
 GET /?param=value HTTP/1.1
-HOST: localhost
+Host: localhost
 
 eos
 
     assert_equal string_request, request.to_s
+  end
+
+  def test_post_http_request_to_s
+    options = {
+        method: :post,
+        form_data: {param: :value, param2: :value2 }
+    }
+    request = Celluloid::Http::Request.new 'http://localhost', options
+
+    string_request = <<-eos
+POST / HTTP/1.1
+Host: localhost
+
+param2=value2&param=value
+eos
+
+    # without \n symbol
+    assert_equal string_request[0...-1], request.to_s
   end
 
 

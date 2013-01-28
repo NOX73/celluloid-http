@@ -5,7 +5,7 @@ class Celluloid::Http::Request
   DEFAULT_METHOD = :get
   DEFAULT_HTTP_VERSION = '1.1'
 
-  attr_accessor :method, :body
+  attr_accessor :method, :body, :form_data
 
   def_delegators :@uri, :scheme, :host, :path, :port, :query
   def_delegators :@uri, :scheme=, :host=, :path=, :port=
@@ -14,6 +14,7 @@ class Celluloid::Http::Request
     @uri = URI.parse url
     @method = options[:method] || DEFAULT_METHOD
     @raw_body = options[:raw_body]
+    @form_data = options[:form_data]
 
     merge_query_params(options[:query_params]) if options[:query_params]
   end
@@ -23,7 +24,7 @@ class Celluloid::Http::Request
   end
 
   def to_s
-    "#{method.to_s.upcase} #{uri} HTTP/#{DEFAULT_HTTP_VERSION}\nHOST: #{host}\n\n"
+    "#{method.to_s.upcase} #{uri} HTTP/#{DEFAULT_HTTP_VERSION}\nHost: #{host}\n\n#{body}"
   end
 
   def url
@@ -41,6 +42,12 @@ class Celluloid::Http::Request
   def merge_query_params(params)
     params = query_params.merge params
     self.query = params
+  end
+
+  def body
+    @body = @raw_body if @raw_body
+    @body = @form_data.to_query  if @form_data
+    @body
   end
 
 end

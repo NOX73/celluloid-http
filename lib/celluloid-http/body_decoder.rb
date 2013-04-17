@@ -1,3 +1,5 @@
+require 'zlib'
+
 class Celluloid::Http::BodyDecoder
 
   class<<self

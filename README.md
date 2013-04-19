@@ -1,5 +1,7 @@
 # Celluloid::Http
 
+[![Build Status](https://travis-ci.org/NOX73/celluloid-http.png?branch=master)](https://travis-ci.org/NOX73/celluloid-http)
+
 Http request implementation based on celluloid::io.
 
 ## Installation

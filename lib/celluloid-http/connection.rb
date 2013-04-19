@@ -32,7 +32,7 @@ class Celluloid::Http::Connection
 
   def self.open(host, port = 80)
     connection = self.new
-    connection.open(host, 80)
+    connection.open(host, port)
     connection
   end
 

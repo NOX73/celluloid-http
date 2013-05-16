@@ -8,6 +8,7 @@ class Celluloid::Http::Connection
 
   def close
     socket.close
+    terminate
   end
 
   def send_request(request)

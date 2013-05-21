@@ -24,7 +24,7 @@ class Celluloid::Http::Connection
       rescue EOFError
         # do nothing
       ensure
-        response << chunk
+        response << chunk if chunk
       end
     end
 
